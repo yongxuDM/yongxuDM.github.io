@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* Dec 2022 - present : postdoc researcher, JGU Mainz
+* Dec 2022 - present : Postdoc Researcher, JGU Mainz
   <!-- * Duties includes: Updates and improvements to template -->
   <!-- * Supervisor: The Users -->
 
@@ -32,19 +32,17 @@ Work experience
 * Nov 2017 - 2018 Oct: Teaching  Assistant, Bonn University 
 
 
-<!-- * Summer 2015: Research Assistant -->
+  <!-- * Summer 2015: Research Assistant -->
   <!-- * Github University -->
   <!-- * Duties included: Tagging issues -->
   <!-- * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, C/C++, Mathematica
+* Language
+  * Mandarin Chinese, English, German
 
 Publications
 ======
