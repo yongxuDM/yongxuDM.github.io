@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in theoretical physics, University of Bonn, 2018 - 2022
 * M.S. in theoretical physics, University of Bonn, 2016 - 2018
-{% * B.S. in physics, China Three Gorges University, 2012 -2016 %}
+<!-- * B.S. in physics, China Three Gorges University, 2012 -2016 -->
 
 Work experience
 ======
