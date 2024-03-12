@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "yongxu.jpg"
   name             : "Dr. Yong Xu"
-  pronouns         : example: "he/his"  
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Mainz Germany"
   employer         : "JGU Mainz"
