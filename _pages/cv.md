@@ -13,8 +13,10 @@ Education
 ======
 * Ph.D in theoretical physics, University of Bonn, 2018 - 2022
     * Thesis: Polynomial Inflation and Its Aftermath
+      
 * M.S. in theoretical physics, University of Bonn, 2016 - 2018
     * Thesis: Higgs Inflation In the Early Universe
+      
 <!-- * B.S. in physics, China Three Gorges University, 2012 -2016 -->
 
 Work experience
@@ -23,9 +25,12 @@ Work experience
   <!-- * Duties includes: Updates and improvements to template -->
   <!-- * Supervisor: The Users -->
 
-  * Nov 2018 - 2022 Oct: Research Assistant, Bonn University 
+* Nov 2018 - Oct 2022: Research Assistant, Bonn University 
   <!-- * Duties included: Merging pull requests  -->
   <!-- * Supervisor: Professor Hub -->
+  
+* Nov 2017 - 2018 Oct: Teaching  Assistant, Bonn University 
+
 
 <!-- * Summer 2015: Research Assistant -->
   <!-- * Github University -->
