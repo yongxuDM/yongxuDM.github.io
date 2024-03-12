@@ -24,7 +24,7 @@ author:
   avatar           : "yongxu.jpg"
   name             : "Dr. Yong Xu"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoc Resarcher Working on Particle Cosmology"
   location         : "Mainz Germany"
   employer         : "JGU Mainz"
   uri              : # URL
@@ -32,10 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  inspire          : "https://inspirehep.net/authors/1737900?ui-citation-summary=true"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4908-1572"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
