@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "yongxu.jpg"
   name             : "Dr. Yong Xu"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "Postdoc Working on Particle Cosmology"
   location         : "Mainz Germany"
   employer         : "JGU Mainz"
