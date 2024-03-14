@@ -5,7 +5,7 @@ permalink: /publication/Probing reheating with graviton bremsstrahlung
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: Nov 21, 2023
 venue: 'JCAP 01 (2024) 065'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://arxiv.org/abs/2311.12694)'
+paperurl: 'https://arxiv.org/abs/2311.12694'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
