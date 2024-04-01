@@ -1,10 +1,10 @@
 ---
 title: "Parameter Space of Leptogenesis in Polynomial Inflation"
 collection: publications
-permalink: /publication/Probing reheating with graviton bremsstrahlung
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/Parameter Space of Leptogenesis in Polynomial Inflation
+excerpt: ''
 date: Jan 4, 2024
-venue: 'JCAP 01 (2024) 065'
+venue: '2401.02485'
 paperurl: 'https://arxiv.org/abs/2401.02485'
 citation: --'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
