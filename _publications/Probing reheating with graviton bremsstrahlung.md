@@ -3,7 +3,7 @@ title: "Probing reheating with graviton bremsstrahlung"
 collection: publications
 permalink: /publication/Probing reheating with graviton bremsstrahlung
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: Nov 21, 2023
+date: 
 venue: 'JCAP 01 (2024) 065'
 paperurl: 'https://arxiv.org/abs/2311.12694'
 citation: --'Nicolas Bernal, Simon  Clery, Yann Mambrini and YONG  XU. &quot;Probing reheating with graviton bremsstrahlung.&quot; <i>JCAP 01 </i> (2024) 065.'
