@@ -4,7 +4,7 @@ collection: talks
 type: ""
 permalink: /talks/2014-03-01-talk-3
 venue: "26th International Conference on Particle Physics and Cosmology (COSMO 2023)"
-date: 11-15 September 2023 
+date: 13 September 2023 
 location: "Madrid, Spain"
 ---
 
