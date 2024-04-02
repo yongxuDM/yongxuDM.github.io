@@ -1,7 +1,7 @@
 ---
 title: "GRAVITATIONAL WAVES FROM GRAVITON BREMSSTRAHLUNG DURING REHEATING"
 collection: talks
-type: ""
+type: "Seminar"
 permalink: /talks/2013-03-01-tutorial-1
 venue: "lawphysics: Latin American webinars on physics"
 date: 24 May 2023
