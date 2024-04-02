@@ -2,7 +2,7 @@
 title: "Gravitational Wave from Graviton Bremsstrahlung during Reheating"
 collection: talks
 type: ""
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/COSMO23
 venue: "26th International Conference on Particle Physics and Cosmology (COSMO 2023)"
 date: 13 September 2023 
 location: "Madrid, Spain"
