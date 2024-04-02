@@ -1,7 +1,7 @@
 ---
 title: "Gravitational Wave from Graviton Bremsstrahlung during Reheating"
 collection: talks
-type: ""
+type: "Talk"
 permalink: /talks/CORFU23
 venue: "Workshop on Theoretical Particle Cosmology in the Early and Late Universe (CORFU2023)"
 date:  2 May 2023
