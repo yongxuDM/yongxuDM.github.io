@@ -4,7 +4,7 @@ collection: talks
 type: ""
 permalink: /talks/CORFU23
 venue: "Corfu Summer Institute 2023 "Workshop on Theoretical Particle Cosmology in the Early and Late Universe (CORFU2023)"
-date:  30 April - 6 May, 2023
+date:  2 May 2023
 location: "Corfu, Greece"
 ---
 
