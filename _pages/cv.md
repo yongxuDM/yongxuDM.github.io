@@ -64,4 +64,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Referee for JCAP, JHEP
+* Mainz "Theorie-Palaver" organizer
+* Group Journal Club  organizer
