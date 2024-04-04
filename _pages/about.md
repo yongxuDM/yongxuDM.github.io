@@ -21,17 +21,15 @@ GW
 **High Frequeny Gravitational Wave from Graviton Bremsstrahlung**
 ![Editing a markdown file for a talk](/images/GW.png)
 
-  <!-- Black Hole Superradiance -->
+<!-- Black Hole Superradiance -->
 
-  <!-- Dark Matter -->
+<!-- Dark Matter -->
 
+<!-- Baryogenesis-->
 
-  <!-- Baryogenesis-->
+<!--Cosmic Inflation -->
 
-
-  <!--Cosmic Inflation -->
-
-  <!--The Physics of Reheating-->
+<!--The Physics of Reheating-->
 
 
 
