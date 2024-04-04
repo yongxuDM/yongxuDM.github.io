@@ -23,7 +23,8 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 ![Editing a markdown file for a talk](/images/GW.png)
 
-**My First Single Author Paper**
+My First Single Author Paper
+--
 
 <!-- Black Hole Superradiance -->
 
