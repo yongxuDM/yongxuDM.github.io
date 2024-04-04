@@ -10,10 +10,12 @@ Hallo! Welcome to my webpage. My name is XU (徐) Yong (勇). I was born in Chin
 
 [CV Page](https://yongxudm.github.io/cv/)
 
+[Inspire Page](https://inspirehep.net/authors/1737900?ui-citation-summary=true)
 
 My research
 ======
-[Inspire Page](https://inspirehep.net/authors/1737900?ui-citation-summary=true)
+
+
 I am currently working on an interesting and unavoidable stochastic gravitational wave background from Graviton Bremsstrahlung during inflationary reheating.
 
 
