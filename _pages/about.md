@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is XU, Yong
+My name is XU, Yong (徐勇)
 
 A data-driven personal website
 ======
