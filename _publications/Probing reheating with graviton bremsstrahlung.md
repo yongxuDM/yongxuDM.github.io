@@ -2,7 +2,7 @@
 title: "Probing reheating with graviton bremsstrahlung"
 collection: publications
 permalink: /publication/Probing reheating with graviton bremsstrahlung
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 21 Nov 2023
 venue: 'JCAP 01 (2024) 065'
 paperurl: 'https://arxiv.org/abs/2311.12694'
