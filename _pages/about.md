@@ -19,12 +19,13 @@ Dark Matter
 
 
 **Freeze-in**
+
 **Freeze-out**
 
 
 GW
 -----
 
-High Frequeny Gravitational Wave from Graviton Bremsstrahlung
+**High Frequeny Gravitational Wave from Graviton Bremsstrahlung**
 ![Editing a markdown file for a talk](/images/GW.png)
 
