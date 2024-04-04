@@ -8,7 +8,7 @@ redirect_from:
 ---
 My name is XU (徐) Yong (勇). I am currently a postdoc researcher working on particle cosmology at JGU Mainz.
 
-A data-driven personal website
+My research
 ======
 
 
