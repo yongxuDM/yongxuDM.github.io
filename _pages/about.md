@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Me and My research "
+title: "Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-My name is XU (徐) Yong (勇). I am currently a postdoc researcher working on particle cosmology at JGU Mainz. I obtained my PhD from Bonn in 2022, where I also
-did my master degree. [CV here](https://yongxudm.github.io/cv/)
+Hallo! Welcome to my webpage. My name is XU (徐) Yong (勇). I am originally from Xinyang, Henan, China. I am currently a postdoc researcher working on particle cosmology at JGU Mainz. I obtained my PhD from Bonn in 2022, where I also did my master degree in 2018. [CV here](https://yongxudm.github.io/cv/)
 
 
 My research
