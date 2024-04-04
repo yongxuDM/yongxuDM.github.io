@@ -12,7 +12,7 @@ did my master degree. [See the CV page for more details](https://yongxudm.github
 
 My research
 ======
-I am currently interested in physics in the early Universe.
+I am currently working an interesting and unavoidable stochastic gravitational wave background from Graviton Bremsstrahlung during inflationary reheating.
 
 
 GW
