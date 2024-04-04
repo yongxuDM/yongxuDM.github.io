@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Short Bio"
+title: "Me and My research "
 author_profile: true
 redirect_from: 
   - /about/
