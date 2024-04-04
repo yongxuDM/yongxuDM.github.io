@@ -33,8 +33,6 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 <!--The Physics of Reheating-->
 
 
-Problems and questions i wish to attack when I am settled
----
-  * 
-  *
+<!-- Problems and questions i wish to attack when I am settled-->
+
 
