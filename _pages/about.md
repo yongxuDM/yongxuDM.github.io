@@ -16,10 +16,11 @@ My research
 ======
 
 
+Graviton Bremsstrahlung
+--
 I am recently working on an interesting and unavoidable stochastic gravitational wave background from Graviton Bremsstrahlung during inflationary reheating.
 
 
-**High Frequeny Gravitational Wave from Graviton Bremsstrahlung**
 ![Editing a markdown file for a talk](/images/GW.png)
 
 **My First Single Author Paper**
