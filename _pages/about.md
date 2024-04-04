@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is XU, Yong (徐勇)
+My name is XU (徐) Yong (勇). I am currently a postdoc researcher working on particle cosmology at JGU Mainz.
 
 A data-driven personal website
 ======
