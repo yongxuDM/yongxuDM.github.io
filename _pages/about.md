@@ -25,7 +25,6 @@ Dark Matter
 GW
 ------
 
-
-Example: editing a markdown file for a talk
+High Frequeny Gravitational Wave from Graviton Bremsstrahlung
 ![Editing a markdown file for a talk](/images/GW.png)
 
