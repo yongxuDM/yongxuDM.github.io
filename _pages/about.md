@@ -13,7 +13,7 @@ did my master degree. [CV here](https://yongxudm.github.io/cv/)
 My research
 ======
 I am currently working an interesting and unavoidable stochastic gravitational wave background from Graviton Bremsstrahlung during inflationary reheating.
-
+[Inspire here](https://inspirehep.net/authors/1737900?ui-citation-summary=true)
 
 GW
 -----
