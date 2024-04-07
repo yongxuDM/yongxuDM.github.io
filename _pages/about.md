@@ -30,7 +30,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 <img src="/images/phi_hFF.png" alt="Editing a markdown file for a talk" >
 
-* Gravitation production rate: $$ \frac{d\Gamma^{1 \to 3}}{d E} = $$
+* The poduction rate for a graviton with energy $$E_\omega$$
 
 
 <!--  ![Editing a markdown file for a talk](/images/GW.png) -->
