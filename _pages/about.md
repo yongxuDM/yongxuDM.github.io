@@ -8,7 +8,7 @@ redirect_from:
 ---
 # 你好, Hello! Welcome to my web! 
 
-My name is XU (徐) Yong (勇). I was born in Xinyang, Henan, China, famed for its exquisite Xinyang Maojian green tea. 🗣️ My mother tongue is the Xinyang dialect. I navigate between  Mandarin and English, and possess a surviving-level proficiency in German. Python 💻 is now my native language, through which I can express myself well. I earned my PhD 🎓 from the University of Bonn in October 2022 and currently research early Universe cosmology at JGU Mainz. Outside academia, I find peace in fishing 🎣. 
+My name is XU (徐) Yong (勇). I was born in Xinyang, Henan, China, famed for its exquisite Xinyang Maojian green tea. 🗣️ My mother tongue is the Xinyang dialect. I navigate between  Mandarin and English, and possess a surviving-level proficiency in German. Python 💻 is now my native language, through which I can express myself well. I earned my PhD 🎓 from the University of Bonn in October 2022 and currently research early Universe cosmology at JGU Mainz. Outside academia, I find peace in watching green fields and fishing 🎣. 
 <!--Join me on a journey where curiosity knows no bounds 🌌.-->
 
 <!-- [CV Page](https://yongxudm.github.io/cv/)-->
@@ -23,9 +23,9 @@ Graviton Bremsstrahlung
 --
 I am recently working on an interesting and unavoidable stochastic gravitational wave (GW) background from Graviton Bremsstrahlung during inflationary reheating. The idea is very simple:
 
-* Inflaton decay $$\phi \mathcal{F}\mathcal{F}$$ with $\mathcal{F}\in \{ \varphi, \psi \}$ for bosonic and fermionic reheating
-* Gravitational coupling $\frac{1}{M_P} T^{\mu \nu} g_{\mu \nu}$
-* Expand the metric $g_{\mu \nu} \simeq \eta_{\mu \nu} + \frac{1}{M_P}h_{\mu \nu}$, leads to a coupling among graviton and matter field $\frac{1}{M_P} T^{\mu \nu} h_{\mu \nu}$
+* Inflaton decay $$\phi \mathcal{F}\mathcal{F}$$ with  $$ \mathcal{F}\in \{ \varphi, \psi \} $$ for bosonic and fermionic reheating
+* Gravitational coupling  $$\frac{1}{M_P} T^{\mu \nu} g_{\mu \nu} $$
+* Expand the metric  $$ g_{\mu \nu} \simeq \eta_{\mu \nu} + \frac{1}{M_P}h_{\mu \nu} $$, leadings to a coupling among graviton and matter fields  $$ \sim \frac{1}{M_P} T^{\mu \nu} h_{\mu \nu} $$
 * Graviton production via Bremsstrahlung in a 3-body process $\phi \to \mathcal{F} \mathcal{F} h_{\mu \nu}$
 
 
