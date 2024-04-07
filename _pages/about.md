@@ -20,7 +20,14 @@ Research Highlight
 
 Graviton Bremsstrahlung
 --
-I am recently working on an interesting and unavoidable stochastic gravitational wave (GW) background from Graviton Bremsstrahlung during inflationary reheating. The idea is very simple: perturbative reheating + $\frac{1}{M_P} T^{\mu \nu} h_{\mu \nu}$
+I am recently working on an interesting and unavoidable stochastic gravitational wave (GW) background from Graviton Bremsstrahlung during inflationary reheating. The idea is very simple.
+
+*  Inflaton decay $~\phi FF$ for reheating
+*  Gravitational coupling $\frac{1}{M_P} T^{\mu \nu} g_{\mu \nu}$
+*  Expand the mextirc $g_{\mu \nu} \simeq \eta_{\mu \nu} + \frac{h_{\mu \nu}}{M_P}$
+*  Grviaton production via Bremsstrahlung  in a 3-body process
+
+
 
 <img src="/images/phi_hFF.png" alt="Editing a markdown file for a talk" >
 
