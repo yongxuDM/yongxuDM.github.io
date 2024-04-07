@@ -30,7 +30,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 Probing Reheating eith axion experiments. 
 
 
-![Editing a markdown file for a talk](/images/ALP.png)
+![Editing a markdown file for a talk](/images/ALP.png){ width: 200px; }
 
 <!-- Black Hole Superradiance -->
 
