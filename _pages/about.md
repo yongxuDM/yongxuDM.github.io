@@ -29,7 +29,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 --
 Probing Reheating eith axion experiments. 
 
-<img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="800" height="600">
+<img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="800" height="700">
 
 <!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
 
