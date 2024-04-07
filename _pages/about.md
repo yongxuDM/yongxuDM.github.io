@@ -40,6 +40,9 @@ Probing Reheating With Axion Experiments
 
  <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="800" height="700">
 
+ * Inflaton oscillating in a generic potential $` \phi^{n} `$
+ *
+
 <!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
 
 <!-- Black Hole Superradiance -->
