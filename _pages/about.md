@@ -18,7 +18,7 @@ My name is XU (徐) Yong (勇). I was born in Xinyang, Henan, China, famed for i
 Research Highlight
 ======
 
-Graviton Bremsstrahlung
+Graviton Bremsstrahlung from Inflaton Decay
 --
 I am recently working on an interesting and unavoidable stochastic gravitational wave (GW) background from Graviton Bremsstrahlung during inflationary reheating. The idea is very simple:
 
@@ -28,7 +28,8 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 *  Grviaton production via Bremsstrahlung  in a 3-body process $\phi \to \mathcal{F} \mathcal{F} h_{\mu \nu}$
 
 
-
+Graviton Bremsstrahlung from Inflaton Annihilation
+--
 <img src="/images/phi_hFF.png" alt="Editing a markdown file for a talk" >
 
 ![Editing a markdown file for a talk](/images/GW.png)
