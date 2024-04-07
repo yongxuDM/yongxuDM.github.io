@@ -8,8 +8,7 @@ redirect_from:
 ---
 # 🌟 你好, Hello! Welcome to my web! 🌟
 
-
-Hello! I'm XU (徐) Yong (勇), born in Xinyang, Henan, China, famed for its exquisite Xinyang Maojian green tea. Fluent in the Xinyang dialect and Python, I navigate between English, Mandarin, and a surviving-level German proficiency. I earned my PhD from the University of Bonn in October 2022 and now research early Universe cosmology at JGU Mainz. Outside academia, I find peace in fishing. Join me on a journey where curiosity knows no bounds!
+My name is XU (徐) Yong (勇). I was born in Xinyang, Henan, China, famed for its exquisite Xinyang Maojian green tea. My mother tongue is the Xinyang dialect. I navigate between English, Mandarin, and possess a surviving-level proficiency in German. Python is now my native language, through which I can express myself well. I earned my PhD from the University of Bonn in October 2022 and currently research early Universe cosmology at JGU Mainz. Outside academia, I find peace in fishing. Join me on a journey where curiosity knows no bounds.
 
 [CV Page](https://yongxudm.github.io/cv/)
 
@@ -27,6 +26,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 ![Editing a markdown file for a talk](/images/GW.png)
 
 # 🌟My First Single Author Paper 🌟
+
 --
 Probing Reheating via axion experiments.
 
