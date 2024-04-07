@@ -9,7 +9,7 @@ redirect_from:
 # 🌟 你好, Hello! Welcome to my web! 🌟
 
 
-My name is XU (徐) Yong (勇). I was born in China, Henan, Xinyang, where the famous green tee-- Xinyang Maojian is produced.  Xinyang dialect is my mother tongue, and Python now becomes my native language, in which I can express myself well. For working, I use English and Mandarin. I can speak surviving-level German in daily life.  I obtained my PhD from University of Bonn on October 2022. After that, I moved to JGU Mainz for postdoc. I work on early Universe cosmology. I like fishing. 
+Hello! I'm XU (徐) Yong (勇), born in Xinyang, Henan, China, famed for its exquisite Xinyang Maojian green tea. Fluent in the Xinyang dialect and Python, I navigate between English, Mandarin, and a surviving-level German proficiency. I earned my PhD from the University of Bonn in October 2022 and now research early Universe cosmology at JGU Mainz. Outside academia, I find peace in fishing. Join me on a journey where curiosity knows no bounds!
 
 [CV Page](https://yongxudm.github.io/cv/)
 
