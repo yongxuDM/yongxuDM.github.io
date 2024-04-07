@@ -25,7 +25,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 ![Editing a markdown file for a talk](/images/GW.png)
 
-# 🌟My First Single Author Paper 🌟
+🌟My First Single Author Paper 🌟
 
 --
 Probing Reheating via axion experiments.
@@ -41,8 +41,6 @@ Probing Reheating via axion experiments.
 <!--Cosmic Inflation -->
 
 <!--The Physics of Reheating-->
-
-
 <!-- Problems and questions i wish to attack when I am settled-->
 
 
