@@ -30,8 +30,8 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 <img src="/images/phi_hFF.png" alt="Editing a markdown file for a talk" >
 
-* The poduction rate for a graviton with energy $$E_\omega$$
-* 
+* The poduction rate for a graviton with energy $$E_\omega$$ (or $$x \equiv E_\omega /m_\phi$$)
+  
 <img src="/images/1to3_rate.png" alt="Editing a markdown file for a talk" >
 
 <!--  ![Editing a markdown file for a talk](/images/GW.png) -->
