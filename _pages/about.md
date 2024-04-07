@@ -27,16 +27,12 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 * Expand the metric $g_{\mu \nu} \simeq \eta_{\mu \nu} + \frac{1}{M_P}h_{\mu \nu}$, leads to a coupling among graviton and matter field $\frac{1}{M_P} T^{\mu \nu} h_{\mu \nu}$
 * Graviton production via Bremsstrahlung in a 3-body process $\phi \to \mathcal{F} \mathcal{F} h_{\mu \nu}$
 
-This will render the text with proper Markdown formatting for emphasis and mathematical expressions.
-
-
 
 <img src="/images/phi_hFF.png" alt="Editing a markdown file for a talk" >
 
 ![Editing a markdown file for a talk](/images/GW.png)
 
 🌟My First Single Author Paper 🌟 Probing Reheating With Axion Experiments
---
 
 
 <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="800" height="700">
