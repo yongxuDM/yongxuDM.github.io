@@ -30,12 +30,12 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 <img src="/images/phi_hFF.png" alt="Editing a markdown file for a talk" >
 
-![Editing a markdown file for a talk](/images/GW.png)
-
+<!--  ![Editing a markdown file for a talk](/images/GW.png) -->
+ 
 🌟My First Single Author Paper 🌟 Probing Reheating With Axion Experiments
 
 
-<!--  <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="800" height="700">-->
+ <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="800" height="700">
 
 <!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
 
