@@ -24,7 +24,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 *  Inflaton decay $~\phi \mathcal{F}\mathcal{F}$ with $\mathcal{F}\in \{ \varphi, \psi \}$ for bosonic and fermionic reheating
 *  Gravitational coupling $\frac{1}{M_P} T^{\mu \nu} g_{\mu \nu}$
-*  Expand the mextirc $g_{\mu \nu} \simeq \eta_{\mu \nu} + \frac{h_{\mu \nu}}{M_P}$   $\frac{1}{M_P} T^{\mu \nu} h_{\mu \nu}$
+*  Expand the mextirc $g_{\mu \nu} \simeq \eta_{\mu \nu} + \frac{1}{M_P}h_{\mu \nu}$   $\frac{1}{M_P} T^{\mu \nu} h_{\mu \nu}$
 *  Grviaton production via Bremsstrahlung  in a 3-body process $\phi \to \mathcal{F} \mathcal{F} h_{\mu \nu}$
 
 
