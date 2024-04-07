@@ -36,7 +36,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 Probing Reheating With Axion Experiments
 --
-🌟My First Single Author Paper 🌟 
+# First Single Author Paper 
 
 
  <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="800" height="700">
