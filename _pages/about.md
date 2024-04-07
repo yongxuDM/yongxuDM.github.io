@@ -36,13 +36,14 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 Probing Reheating With Axion Experiments
 --
-# First Single Author Paper 
+
+First Single Author Paper 
 
 
  <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="800" height="700">
 
  * Inflaton oscillating in a generic potential $ \phi^{n} $
- *
+ * Extended axion parameter space depends on both the value of $n$ and the type of inflaton matter coupling
 
 <!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
 
