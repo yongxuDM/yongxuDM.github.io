@@ -22,6 +22,7 @@ Graviton Bremsstrahlung
 --
 I am recently working on an interesting and unavoidable stochastic gravitational wave background from Graviton Bremsstrahlung during inflationary reheating.
 
+<img src="/images/phi_hFF.jpg" alt="Editing a markdown file for a talk" width="800" height="700">
 
 ![Editing a markdown file for a talk](/images/GW.png)
 
