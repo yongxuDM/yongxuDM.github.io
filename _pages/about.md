@@ -29,6 +29,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 * Graviton production via Bremsstrahlung in a 3-body process $$\phi \to \mathcal{F} \mathcal{F} h_{\mu \nu}$$
 
 <img src="/images/phi_hFF.png" alt="Editing a markdown file for a talk" >
+
 * Gravitation production rate: $$ \frac{d\Gamma^{1 \to 3}}{d E} = $$
 
 
