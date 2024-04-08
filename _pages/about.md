@@ -19,7 +19,7 @@ My name is XU (徐) Yong (勇). I was born in Xinyang, Henan, China, famed for i
 🌟 Research Highlight 🌟
 ======
 
-Graviton Bremsstrahlung 
+Gravitational Wave from Graviton Bremsstrahlung 
 --
 I am recently working on an interesting and unavoidable stochastic gravitational wave (GW) background from Graviton Bremsstrahlung during inflationary reheating. The idea is very simple:
 
