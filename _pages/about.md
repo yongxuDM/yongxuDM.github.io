@@ -30,11 +30,11 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 <img src="/images/phi_hFF.png" alt="Editing a markdown file for a talk" >
 
-* The poduction rate for a graviton with energy $$E_\omega$$ 
+<!--  * The poduction rate for a graviton with energy $$E_\omega$$  -->
   
-<img src="/images/1to3_rate.png" alt="Editing a markdown file for a talk" >
+<!-- <img src="/images/1to3_rate.png" alt="Editing a markdown file for a talk" > -->
 
-where $$x \equiv E_\omega /m_\phi$$. A graviton can carry a maximum of half of the inflaton energy, which occurs when the daughter particle mass approaches zero. In such case, the differential decay rate tends toward zero as the phase space closes. This is why the differential decay rate goes to zero when $$x \to 1/2$$. When $$x\to 0$$, the spectrum $$\frac{d\Gamma^{1\to 3} }{dE_\omega}  \to \infty$$, which is a well-known feature of (infrared) graviton Bremsstrahlung. To address such divergence, it is necessary to include vertex and self-energy diagrams, which is similar to the  situation in QED. Here, our main interest lies in quantities proportional to $$ E_\omega\frac{d\Gamma^{1\to 3} }{dE_\omega} $$, so we do not need to worry about the divergence at this moment. 
+<!-- where $$x \equiv E_\omega /m_\phi$$. A graviton can carry a maximum of half of the inflaton energy, which occurs when the daughter particle mass approaches zero. In such case, the differential decay rate tends toward zero as the phase space closes. This is why the differential decay rate goes to zero when $$x \to 1/2$$. When $$x\to 0$$, the spectrum $$\frac{d\Gamma^{1\to 3} }{dE_\omega}  \to \infty$$, which is a well-known feature of (infrared) graviton Bremsstrahlung. To address such divergence, it is necessary to include vertex and self-energy diagrams, which is similar to the  situation in QED. Here, our main interest lies in quantities proportional to $$ E_\omega\frac{d\Gamma^{1\to 3} }{dE_\omega} $$, so we do not need to worry about the divergence at this moment. -->
 
 * The GW spectrum takes a form:
 
