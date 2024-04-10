@@ -70,7 +70,7 @@ Service and leadership
 
 Teaching
 ======
-* Winter Term 202324
+* Winter Term 2023/24
   * Teaching (1 week) for Physics of CMB and Baryogenesis
   * The early Universe by Prof. J. Harz, JGU Mainz
 
