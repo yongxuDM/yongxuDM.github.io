@@ -80,23 +80,37 @@ Teaching
 
 * Summer Term 2021
     * Chief Tutor
-    * Advanced Theoretical Particle Physics by Prof. M. Drees, University of Bonn
+    * Advanced Theoretical Particle Physics, Prof. M. Drees, University of Bonn
 
-* Winter Term 202021
+* Winter Term 2020/21
     * Chief Tutor
-    * Theoretical Particle Physics by Prof. M. Drees, University of Bonn
+    * Theoretical Particle Physics, Prof. M. Drees, University of Bonn
 
-* Winter Term 202021 Tutor  Crash Course on  Applied QFT, Prof. M. Drees, University of Bonn
+* Winter Term 2020/21
+    * Tutor
+    * Crash Course on  Applied QFT, Prof. M. Drees, University of Bonn
 
-* Summer Term 2020 Tutor  Theoretical Astro-particle Physics,  Prof. H. Dreiner, University of Bonn
+* Summer Term 2020
+    * Tutor
+    * Theoretical Astro-particle Physics,  Prof. H. Dreiner, University of Bonn
 
-* Winter Term 201920 Tutor  Theoretical Particle Physics,  Prof. H. Dreiner, University of Bonn
+* Winter Term 2019/20
+    * Tutor
+    * Theoretical Particle Physics,  Prof. H. Dreiner, University of Bonn
 
-* Summer Term 2019 Tutor  Theoretical Astro-particle Physics, Prof. M. Drees, University of Bonn
+* Summer Term 2019
+  * Tutor
+  * Theoretical Astro-particle Physics, Prof. M. Drees, University of Bonn
 
-* Winter Term 201819 Tutor  Theoretical Particle Physics, Prof. M. Drees, University of Bonn
+* Winter Term 2018/19
+  * Tutor
+  * Theoretical Particle Physics, Prof. M. Drees, University of Bonn
 
-* Summer Term 2018 Tutor  QFT,  Prof. H. Dreiner, University of Bonn
+* Summer Term 2018
+  * Tutor  
+  * QFT,  Prof. H. Dreiner, University of Bonn
 
-* Winter Term 201718 Tutor Advanced Quantum Theory,   Prof. J. Kroha, University of Bonn
+* Winter Term 2017/18
+  * Tutor
+  * Advanced Quantum Theory,   Prof. J. Kroha, University of Bonn
 
