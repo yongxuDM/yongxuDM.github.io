@@ -62,21 +62,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Referee for JCAP, JHEP
-* Mainz "Theorie-Palaver" organizer
-* Group Journal Club  organizer
 
 Teaching
 ======
 * Winter Term 2023/24
-  * Teaching (1 week) for Physics of CMB and Baryogenesis
-  * The early Universe by Prof. J. Harz, JGU Mainz
+  * Teaching (1 week): Physics of CMB and Basis of Baryogenesis
+  * Advanced Cosmology, Prof. J. Harz, JGU Mainz
 
 * Summer Term 2023
-    * Teaching (1.5 week) for Kinematic Decoupling of Dark Matter and Sommerfeld Effect in Dark Matter Production
-    * Advanced topics in early Universe by Prof. J. Harz, JGU Mainz
+    * Teaching (1.5 week): Kinematic Decoupling  and Sommerfeld Effect in Dark Matter Physics
+    * The early Universe, Prof. J. Harz, JGU Mainz
 
 * Summer Term 2021
     * Chief Tutor
@@ -113,4 +108,11 @@ Teaching
 * Winter Term 2017/18
   * Tutor
   * Advanced Quantum Theory,   Prof. J. Kroha, University of Bonn
+ 
+Service and leadership
+======
+* Referee for JCAP, JHEP
+* Mainz "Theorie-Palaver" organizer
+* Group Journal Club  organizer
+
 
