@@ -19,7 +19,7 @@ Research Interests
 ======
 * Gravitational Wave
 * Dark Matter
-* Black Hole Supperadiance 
+* Black Hole Superradiance 
 * Physics of (p)reheating
 * Cosmic Inflation
 
