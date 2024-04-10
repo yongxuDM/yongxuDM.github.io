@@ -15,11 +15,10 @@ My name is XU (徐) Yong (勇). I was born in Xinyang, Henan, China, famed for i
 
 <!--  [Inspire Page](https://inspirehep.net/authors/1737900?ui-citation-summary=true)-->
 
-Research Interests
+Recent Research Interests
 ======
 * Gravitational Wave
-* Dark Matter
-* Black Hole Superradiance 
+* Black Hole Superradiance and Dark Matter
 * Physics of (p)reheating
 * Cosmic Inflation
 
