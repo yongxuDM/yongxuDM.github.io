@@ -38,7 +38,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 <!-- * The GW spectrum takes a form: -->
 
-<img src="/images/YX_hc_VFS.png" alt="Editing a markdown file for a talk" width="500" height="400">
+<img src="/images/YX_hc_VFS.png" alt="Editing a markdown file for a talk" width="500" height="500">
 
 
 
