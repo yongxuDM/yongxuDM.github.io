@@ -50,7 +50,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 Letogenesis from 3-body Decay
 --
-<img src="/images/phiHLN.png" alt="Editing a markdown file for a talk" width="500" height="500">
+<img src="/images/phiHLN.png" alt="Editing a markdown file for a talk">
 
 
 Probing Reheating With Axion Experiments
