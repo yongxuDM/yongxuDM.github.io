@@ -72,8 +72,8 @@ Teaching
 ======
 *Winter Term 202324 topics teaching (1 week) The early Universe, Prof. J. Harz, JGU Mainz
 *Summer Term 2023 topics teaching (1.5 week)  Advanced topics in early Universe, Prof. J. Harz, JGU Mainz
-* Summer Term 2021 Chief Tutor Advanced Theoretical Particle Physics, Prof. M. Drees, University of Bonn
-* Winter Term 202021 Chief Tutor Theoretical Particle Physics, Prof. M. Drees, University of Bonn
+*Summer Term 2021 Chief Tutor Advanced Theoretical Particle Physics, Prof. M. Drees, University of Bonn
+*Winter Term 202021 Chief Tutor Theoretical Particle Physics, Prof. M. Drees, University of Bonn
 *Winter Term 202021 Tutor  Crash Course on  Applied QFT, Prof. M. Drees, University of Bonn
 *Summer Term 2020 Tutor  Theoretical Astro-particle Physics,  Prof. H. Dreiner, University of Bonn
 *Winter Term 201920 Tutor  Theoretical Particle Physics,  Prof. H. Dreiner, University of Bonn
