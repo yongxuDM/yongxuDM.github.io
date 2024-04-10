@@ -39,7 +39,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 <!-- * The GW spectrum takes a form: -->
 
 
- ![Editing a markdown file for a talk](/images/GW.png)
+ ![Editing a markdown file for a talk](/images/YX_hc_VFS.pdf)
 
 
 Probing Reheating With Axion Experiments
