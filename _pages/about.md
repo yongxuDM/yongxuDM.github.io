@@ -56,11 +56,11 @@ Letogenesis from 3-body Decay
 * A novel non-thermal channel for leptogenesis via inflaton 3-body decay
 * Without the need to introduce (the traditional) $$\phi N N$$ coupling
 * The only assumptions:
-    * $$\phi H^2$$ for reheating
-    * $$HLN$$ Type-I see-saw for neutrio mass
+    * $$\phi H^{\dagger} H$$ for reheating
+    * $$HLN$$  for neutrio mass via Type-I see-saw
 
   
-<img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk" width="500" height="400" >
+<img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk" width="400" height="300" >
 
 Probing Reheating With Axion Experiments
 --
@@ -74,6 +74,10 @@ My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322)
 
  * Inflaton oscillating in a generic potential $$ \phi^{n} $$
  * Extended axion parameter space depends on both the value of $$n$$ and the type of inflaton matter coupling
+
+   
+Black Hole Superradiance and Dark Matter
+--
 
 <!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
 
