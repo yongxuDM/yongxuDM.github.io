@@ -44,6 +44,10 @@ Skills
 * Language
   * Mandarin Chinese, English, German
 
+Talks
+======
+*COSMO23 ``Gravitational Wave from Graviton Bremsstrahlung" (Madrid, 13 Sep. 2023)
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
