@@ -44,16 +44,22 @@ Skills
 * Language
   * Mandarin Chinese, English, German
 
-Talks
+Talks/Conferences
 ======
 * Planck 2024 -- The 26th International Conference From the Planck Scale to the Electroweak Scale (Lisbon,  June 2024)
    * Talk: ``Probing Reheating with Graviton Bremsstrahlung"
      
-* New Physics Directions in the LHC era and beyond (MPIK,  April 2024)
-   * Talk: ``Probing Reheating via Axion Experiments"
+* MIAPbP workshop QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY (Munich,  July 2024)
      
-* COSMO23  (Madrid, 13 Sep. 2023)
-    * Talk:  ``Gravitational Wave from Graviton Bremsstrahlung"
+* New Physics Directions in the LHC era and beyond (MPIK Heidelberg,  April 2024)
+   * Talk: Probing Reheating via Axion Experiments
+     
+* COSMO23  (Madrid, Sep. 2023)
+    * Talk:  Gravitational Wave from Graviton Bremsstrahlung
+      
+* Workshop on Theoretical Particle Cosmology in the Early and Late Universe (Corfu, May 2023)
+    * Talk:  Gravitational Wave from Graviton Bremsstrahlung
+      
   
 
 
