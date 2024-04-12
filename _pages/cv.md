@@ -115,7 +115,7 @@ Teaching
 Service and leadership
 ======
 * Referee for JCAP, JHEP
-* Mainz "Theorie-Palaver" organizer
+* Mainz [Theorie-Palaver](https://www.thep.physik.uni-mainz.de/theorie-palaver/) organizer
 * Group Journal Club  organizer
 
 
