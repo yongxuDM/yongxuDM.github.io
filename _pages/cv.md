@@ -60,16 +60,39 @@ Talks/Conferences
       
 * MITP/EISA [Workshop on Theoretical Particle Cosmology in the Early and Late Universe](https://www.physics.ntua.gr/corfu2023/hu.html) (Corfu, May 2023)
     * Talk:  Gravitational Wave from Graviton Bremsstrahlung
-* PASCOS 2022 Superradiant Production of Heavy DM from PBHs (Heidelberg, 26 July 2022)
-* Planck 2022 Polynomial Inflation and Its Aftermath (Paris, 2 June 2022 )
-* MPIK Theory Seminar Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis (invited talk 13 Dec. 2021)
-* VLDM2021 Axion DM in the Time of PBHs (Tokyo, 29 Sep. 2021)
-* DPF2021 Polynomial Inflation and Dark Matter (Florida, 13 July 2021)
-* DESY21 Small field Polynomial Inflation (Hamburg, 22 Sep. 2021)
-* CoCo2021 Small field Polynomial Inflation (Bogota, 8 Sep. 2021)
-* MOCa2021 A Renormalizable Model for Inflation and Dark Matter (Bogota, 9 Jun 2021)
-* PPC21 Small field Polynomial Inflation (Oklahoma, 19 May 2021)
-* COSMO19 Overshooting, critical Higgs inflation, PBHs production and induced GWs (poster, Aachen Sep. 2019)
+      
+* [DESY22 Theory Workshop](https://indico.desy.de/event/34520/contributions/128691/) (Hamburg,  Sep. 2022)
+   * Talk: Superradiant Production of Heavy DM from PBHs
+           
+* PASCOS 2022 (Heidelberg, July 2022)
+    * Talk: Superradiant Production of Heavy DM from PBHs
+      
+* Planck 2022 (Paris, June 2022 )
+    * Talk: Polynomial Inflation and Its Aftermath
+      
+* MPIK Theory Seminar (invited talk 13 Dec. 2021)
+    * Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis
+      
+* VLDM2021 (Tokyo, September 2021)
+  * Talk: Axion DM in the Time of PBHs
+    
+* DPF2021 (Florida, July 2021)
+  * Talk: Polynomial Inflation and Dark Matter
+    
+* DESY21 Theory Workshop (Hamburg, 22 Sep. 2021)
+   * Talk: Small field Polynomial Inflation
+     
+* CoCo2021 (Bogota,  September 2021)
+   * Talk: Small field Polynomial Inflation
+     
+* MOCa2021 (Bogota, June 2021)
+   * Talk: A Renormalizable Model for Inflation and Dark Matter
+     
+* PPC21 (Oklahoma, 19 May 2021)
+   * Talk: Small field Polynomial Inflation
+  
+* COSMO19  (Aachen Sep2019)
+   *Poster: Overshooting, critical Higgs inflation, PBHs production and induced GWs
   
 
 
