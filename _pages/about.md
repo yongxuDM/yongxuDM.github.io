@@ -81,7 +81,7 @@ My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322)
 Black Hole Superradiance and Dark Matter
 --
 
-Rotating BH can efficiently transfer energy to the surrounding environment via superradiance. When the Compton length of a particle is comparable to the gravitational radius of a BH, the occupation number of the particles can be exponentially amplified, lead to formation of "gravitational actoms" around BH.
+A spinning black hole can effectively transmit energy to its surroundings through superradiance. When the Compton wavelength of a particle matches the gravitational radius of a black hole, the occupation number of the particles can undergo exponential amplification, resulting in the creation of "gravitational atoms" around the black hole.
 
 * Light BH and Heavy DM [2205.11522](https://arxiv.org/abs/2205.11522)
 * Heavy BH and Light DM 
