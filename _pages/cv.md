@@ -84,7 +84,7 @@ Seminar and Conference
 * [DPF2021](https://indico.cern.ch/event/1034469/) (Florida, July 2021)
   * Talk (online): Polynomial Inflation and Dark Matter
     
-* [DESY21 Theory Workshop](https://indico.desy.de/event/26540/overview) (Hamburg, 22 Sep. 2021)
+* [DESY21 Theory Workshop](https://indico.desy.de/event/26540/overview) (Hamburg, September 2021)
    * Talk (online): Small field Polynomial Inflation
      
 * [CoCo2021](https://indico.cern.ch/event/1040803/) (Bogota,  September 2021)
@@ -93,10 +93,10 @@ Seminar and Conference
 * [MOCa2021](https://indico.cern.ch/event/1004867/) (Bogota, June 2021)
    * Talk (online): A Renormalizable Model for Inflation and Dark Matter
      
-* [PPC21](https://indico.cern.ch/event/822029/) (Oklahoma, 19 May 2021)
+* [PPC21](https://indico.cern.ch/event/822029/) (Oklahoma,  May 2021)
    * Talk (online): Small field Polynomial Inflation
   
-* [COSMO19](https://indico.cern.ch/event/782784/)  (Aachen Sep2019)
+* [COSMO19](https://indico.cern.ch/event/782784/)  (Aachen September 2019)
    * Poster: Overshooting, critical Higgs inflation, PBHs production and induced GWs
   
 
@@ -127,47 +127,47 @@ Teaching
 ======
 * Winter Term 2023/24
   * Teaching (1 week): Physics of CMB and Basis of Baryogenesis
-  * Advanced Cosmology, Prof. J. Harz, JGU Mainz
+  * Advanced Cosmology, [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
 
 * Summer Term 2023
     * Teaching (1.5 week): Kinematic Decoupling  and Sommerfeld Effect in Dark Matter Physics
-    * The early Universe, Prof. J. Harz, JGU Mainz
+    * The early Universe, [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
 
 * Summer Term 2021
     * Chief Tutor
-    * Advanced Theoretical Particle Physics, Prof. M. Drees, University of Bonn
+    * Advanced Theoretical Particle Physics, [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
 
 * Winter Term 2020/21
     * Chief Tutor
-    * Theoretical Particle Physics, Prof. M. Drees, University of Bonn
+    * Theoretical Particle Physics, [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
 
 * Winter Term 2020/21
     * Tutor
-    * Crash Course on  Applied QFT, Prof. M. Drees, University of Bonn
+    * Crash Course on  Applied QFT, [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
 
 * Summer Term 2020
     * Tutor
-    * Theoretical Astro-particle Physics,  Prof. H. Dreiner, University of Bonn
+    * Theoretical Astro-particle Physics,  [Prof. H. Dreiner](http://www.th.physik.uni-bonn.de/th/People/dreiner/), University of Bonn
 
 * Winter Term 2019/20
     * Tutor
-    * Theoretical Particle Physics,  Prof. H. Dreiner, University of Bonn
+    * Theoretical Particle Physics, [Prof. H. Dreiner](http://www.th.physik.uni-bonn.de/th/People/dreiner/), University of Bonn
 
 * Summer Term 2019
   * Tutor
-  * Theoretical Astro-particle Physics, Prof. M. Drees, University of Bonn
+  * Theoretical Astro-particle Physics, [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
 
 * Winter Term 2018/19
   * Tutor
-  * Theoretical Particle Physics, Prof. M. Drees, University of Bonn
+  * Theoretical Particle Physics, [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
 
 * Summer Term 2018
   * Tutor  
-  * QFT,  Prof. H. Dreiner, University of Bonn
+  * QFT,  [Prof. H. Dreiner](http://www.th.physik.uni-bonn.de/th/People/dreiner/), University of Bonn
 
 * Winter Term 2017/18
   * Tutor
-  * Advanced Quantum Theory,   Prof. J. Kroha, University of Bonn
+  * Advanced Quantum Theory,   [Prof. J. Kroha](https://www.pi.uni-bonn.de/kroha/en), University of Bonn
  
 Service and leadership
 ======
