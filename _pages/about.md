@@ -81,9 +81,9 @@ My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322)
 Black Hole Superradiance and Dark Matter
 --
 
-A spinning black hole can effectively transmit energy to its surroundings through superradiance. When the Compton wavelength of a particle matches the gravitational radius of a black hole, the occupation number of the particles can undergo exponential amplification, resulting in the creation of "gravitational atoms" around the black hole.
+A spinning black hole can effectively transmit energy to its surroundings through superradiance. When the Compton wavelength $$\lambda_C =m_{\mathrm{dm}}  $$ of a particle matches the gravitational radius $$r_g = G M_{\mathrm{BH}} $$ of a black hole, the occupation number of the particles can undergo exponential amplification, resulting in the creation of "gravitational atoms" around the black hole.
 
-* Superradiance condition: $$ \alpha \equiv \frac{r_g}{\lambda_C}=G M_{\mathrm{BH}} m_{\mathrm{dm}} \simeq 0.38\left(\frac{M_{\mathrm{BH}}}{10^7 \mathrm{~g}}\right)\left(\frac{m_{\mathrm{dm}}}{10^7 \mathrm{GeV}}\right) $$
+* Superradiance condition: $$\frac{r_g}{\lambda_C}=G M_{\mathrm{BH}} m_{\mathrm{dm}} \simeq 0.38\left(\frac{M_{\mathrm{BH}}}{10^7 \mathrm{~g}}\right)\left(\frac{m_{\mathrm{dm}}}{10^7 \mathrm{GeV}}\right) \sim \mathcak{O}(1)$$
 * Light BH and Heavy DM [2205.11522](https://arxiv.org/abs/2205.11522)
 * Heavy BH and Light DM 
 
