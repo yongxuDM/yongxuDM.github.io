@@ -75,13 +75,13 @@ Talks/Conferences
     * Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis
       
 * [VLDM2021](https://indico.ipmu.jp/event/392/) (Tokyo, September 2021)
-  * Talk: Axion DM in the Time of PBHs
+  * Talk (online): Axion DM in the Time of PBHs
     
 * [DPF2021](https://indico.desy.de/event/26540/overview) (Florida, July 2021)
-  * Talk: Polynomial Inflation and Dark Matter
+  * Talk (online): Polynomial Inflation and Dark Matter
     
 * [DESY21 Theory Workshop](https://indico.desy.de/event/26540/overview) (Hamburg, 22 Sep. 2021)
-   * Talk: Small field Polynomial Inflation
+   * Talk (online): Small field Polynomial Inflation
      
 * [CoCo2021](https://indico.cern.ch/event/1040803/) (Bogota,  September 2021)
    * Talk (online): Small field Polynomial Inflation
