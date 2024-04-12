@@ -46,18 +46,18 @@ Skills
 
 Talks/Conferences
 ======
-* Planck 2024 -- The 26th International Conference From the Planck Scale to the Electroweak Scale (Lisbon,  June 2024)
+* Planck 2024 -- [The 26th International Conference From the Planck Scale to the Electroweak Scale](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
    * Talk: ``Probing Reheating with Graviton Bremsstrahlung"
      
-* [MIAPbP workshop QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
+* MIAPbP workshop [QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
      
-* New Physics Directions in the LHC era and beyond (MPIK Heidelberg,  April 2024)
+* [New Physics Directions in the LHC era and beyond])(https://indico.cern.ch/event/1339497/overview) (MPIK Heidelberg,  April 2024)
    * Talk: Probing Reheating via Axion Experiments
      
-* COSMO23  (Madrid, Sep. 2023)
+* [COSMO23](https://workshops.ift.uam-csic.es/COSMO23)  (Madrid, Sep. 2023)
     * Talk:  Gravitational Wave from Graviton Bremsstrahlung
       
-* Workshop on Theoretical Particle Cosmology in the Early and Late Universe (Corfu, May 2023)
+* MITP/EISA [Workshop on Theoretical Particle Cosmology in the Early and Late Universe](https://www.physics.ntua.gr/corfu2023/hu.html) (Corfu, May 2023)
     * Talk:  Gravitational Wave from Graviton Bremsstrahlung
       
   
