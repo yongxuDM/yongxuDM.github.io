@@ -51,7 +51,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 Letogenesis from 3-body Decay
 --
-We recently found a novel non-thermal channel for leptogenesis via inflaton 3-body decay [2401.02485](https://arxiv.org/abs/2401.02485).
+We recently found a novel  channel for non-thermal   leptogenesis via inflaton 3-body decay [2401.02485](https://arxiv.org/abs/2401.02485).
 The idea is very simple:
 
 <img src="/images/phiHLN.png" alt="Editing a markdown file for a talk">
