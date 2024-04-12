@@ -92,7 +92,7 @@ Talks/Conferences
    * Talk: Small field Polynomial Inflation
   
 * COSMO19  (Aachen Sep2019)
-   *Poster: Overshooting, critical Higgs inflation, PBHs production and induced GWs
+   * Poster: Overshooting, critical Higgs inflation, PBHs production and induced GWs
   
 
 
