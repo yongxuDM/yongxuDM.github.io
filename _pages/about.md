@@ -57,7 +57,7 @@ Letogenesis from 3-body Decay
 * Without the need to introduce (the traditional) $$\phi N N$$ coupling
 * The only assumptions:
     * $$\phi H^{\dagger} H$$ for reheating
-    * $$HLN$$  for neutrio mass via Type-I see-saw
+    * $$H \ell N$$  for neutrio mass via Type-I see-saw
 
   
 <img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk" width="400" height="300" >
