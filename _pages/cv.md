@@ -58,22 +58,22 @@ Talks/Conferences
 * [COSMO23](https://workshops.ift.uam-csic.es/COSMO23)  (Madrid, September 2023)
     * Talk:  Gravitational Wave from Graviton Bremsstrahlung
       
-* MITP/EISA [Workshop on Theoretical Particle Cosmology in the Early and Late Universe](https://www.physics.ntua.gr/corfu2023/hu.html) (Corfu, May 2023)
+* [Workshop on Theoretical Particle Cosmology in the Early and Late Universe](https://www.physics.ntua.gr/corfu2023/hu.html) (Corfu, May 2023)
     * Talk:  Gravitational Wave from Graviton Bremsstrahlung
       
 * [DESY22 Theory Workshop](https://indico.desy.de/event/34520/contributions/128691/) (Hamburg,  Sep. 2022)
    * Talk: Superradiant Production of Heavy DM from PBHs
            
-* PASCOS 2022 (Heidelberg, July 2022)
+* [PASCOS 2022](https://indico.cern.ch/event/1149557/contributions/4917548/) (Heidelberg, July 2022)
     * Talk: Superradiant Production of Heavy DM from PBHs
       
-* Planck 2022 (Paris, June 2022 )
+* [Planck 2022](https://indico.in2p3.fr/event/24773/contributions/110792/) (Paris, June 2022 )
     * Talk: Polynomial Inflation and Its Aftermath
       
-* MPIK Theory Seminar (invited talk 13 Dec. 2021)
+* [MPIK Theory Seminar](https://www.mpi-hd.mpg.de/lin/seminar_theory/talks/Talk_Xu_131221.pdf) (invited talk 13 Dec. 2021)
     * Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis
       
-* VLDM2021 (Tokyo, September 2021)
+* [VLDM2021](https://www.youtube.com/watch?v=VKzevWJuIbs&list=PL_c5YhcJ-fpIBEuIgXnlyJZwm9Zn2zNgw&index=10) (Tokyo, September 2021)
   * Talk: Axion DM in the Time of PBHs
     
 * DPF2021 (Florida, July 2021)
