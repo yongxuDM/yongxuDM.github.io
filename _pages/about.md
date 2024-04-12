@@ -55,6 +55,10 @@ Letogenesis from 3-body Decay
 
 * A novel non-thermal channel for leptogenesis via inflaton 3-body decay
 * Without the need to introduce (the traditional) $$\phi N N$$ coupling
+* The only assumptions:
+    * $$\phi H^2$$ for reheating
+    * $$HLN$$ Type-I see-saw for neutrio mass
+
   
 <img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk" width="500" height="400" >
 
