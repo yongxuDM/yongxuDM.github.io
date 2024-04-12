@@ -58,6 +58,10 @@ Talks/Conferences
      
 * [COSMO23](https://workshops.ift.uam-csic.es/COSMO23)  (Madrid, September 2023)
     * Talk:  Gravitational Wave from Graviton Bremsstrahlung
+       
+* [lawphysics: Latin American webinars on physics](https://lawphysics.wordpress.com/2023/05/22/w145-yong-xu-gravitational-waves-from-graviton-bremsstrahlung-during-reheating/) (May 22, 2023)
+    * Talk:  GRAVITATIONAL WAVES FROM GRAVITON BREMSSTRAHLUNG DURING REHEATING
+      
       
 * [Workshop on Theoretical Particle Cosmology in the Early and Late Universe](https://www.physics.ntua.gr/corfu2023/hu.html) (Corfu, May 2023)
     * Talk:  Gravitational Wave from Graviton Bremsstrahlung
