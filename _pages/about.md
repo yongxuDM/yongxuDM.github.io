@@ -55,7 +55,8 @@ Letogenesis from 3-body Decay
 
 * A novel non-thermal channel for leptogenesis via inflaton 3-body decay
 * Without the need to introduce $$\phi N N$$ coupling
-<img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk">
+  
+<img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk" width="500" height="400" >
 
 Probing Reheating With Axion Experiments
 --
