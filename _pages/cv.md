@@ -44,7 +44,7 @@ Skills
 * Language
   * Mandarin Chinese, English, German
 
-Talks/Conferences
+Seminar and Conference
 ======
 
 * [QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
@@ -81,7 +81,7 @@ Talks/Conferences
 * [VLDM2021](https://indico.ipmu.jp/event/392/) (Tokyo, September 2021)
   * Talk (online): Axion DM in the Time of PBHs
     
-* [DPF2021](https://indico.desy.de/event/26540/overview) (Florida, July 2021)
+* [DPF2021](https://indico.cern.ch/event/1034469/) (Florida, July 2021)
   * Talk (online): Polynomial Inflation and Dark Matter
     
 * [DESY21 Theory Workshop](https://indico.desy.de/event/26540/overview) (Hamburg, 22 Sep. 2021)
