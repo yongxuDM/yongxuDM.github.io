@@ -51,7 +51,7 @@ Talks/Conferences
      
 * MIAPbP workshop [QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
      
-* [New Physics Directions in the LHC era and beyond])(https://indico.cern.ch/event/1339497/overview) (MPIK Heidelberg,  April 2024)
+* [New Physics Directions in the LHC era and beyond](https://indico.cern.ch/event/1339497/overview) (MPIK Heidelberg,  April 2024)
    * Talk: Probing Reheating via Axion Experiments
      
 * [COSMO23](https://workshops.ift.uam-csic.es/COSMO23)  (Madrid, Sep. 2023)
