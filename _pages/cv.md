@@ -46,7 +46,9 @@ Skills
 
 Talks
 ======
-*COSMO23 ``Gravitational Wave from Graviton Bremsstrahlung" (Madrid, 13 Sep. 2023)
+* COSMO23 ``Gravitational Wave from Graviton Bremsstrahlung" (Madrid, 13 Sep. 2023)
+  
+
 
 <!-- Publications
 ======
