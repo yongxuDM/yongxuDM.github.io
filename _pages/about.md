@@ -8,7 +8,7 @@ redirect_from:
 ---
 # 你好, Hello! 
 
-My name is Xú, (徐) Yǒng (勇). I was born in Xinyang, Henan, China, famed for its exquisite Xinyang Maojian green tea. 🗣️ My mother tongue is the Xinyang dialect. I navigate between  Mandarin and English, and possess a surviving-level proficiency in German. Python 💻 is now my native language, through which I can express myself well. I earned my PhD 🎓 from the [Universität Bonn](https://www.uni-bonn.de/en?set_language=en) in October 2022 and currently postdoc at [Johannes Gutenberg-Universität Mainz](https://www.uni-mainz.de/en/), working on early Universe cosmology. Outside academia, I find peace in fishing 🎣. 
+My name is Xú (徐) Yǒng (勇). I was born in Xinyang, Henan, China, famed for its exquisite Xinyang Maojian green tea. 🗣️ My mother tongue is the Xinyang dialect. I navigate between  Mandarin and English, and possess a surviving-level proficiency in German. Python 💻 is now my native language, through which I can express myself well. I earned my PhD 🎓 from the [Universität Bonn](https://www.uni-bonn.de/en?set_language=en) in October 2022 and currently postdoc at [Johannes Gutenberg-Universität Mainz](https://www.uni-mainz.de/en/), working on early Universe cosmology. Outside academia, I find peace in fishing 🎣. 
 <!--Join me on a journey where curiosity knows no bounds 🌌.-->
 
 <!-- [CV Page](https://yongxudm.github.io/cv/)-->
