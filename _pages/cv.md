@@ -47,7 +47,7 @@ Skills
 Talks/Conferences
 ======
 * Planck 2024 -- [The 26th International Conference From the Planck Scale to the Electroweak Scale](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
-   * Talk: ``Probing Reheating with Graviton Bremsstrahlung"
+   * Talk: Probing Reheating with Graviton Bremsstrahlung
      
 * MIAPbP workshop [QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
      
