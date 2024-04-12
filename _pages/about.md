@@ -51,10 +51,12 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 Letogenesis from 3-body Decay
 --
+We recently found a novel non-thermal channel for leptogenesis via inflaton 3-body decay [2401.02485](https://arxiv.org/abs/2401.02485).
+The idea is very simple:
+
 <img src="/images/phiHLN.png" alt="Editing a markdown file for a talk">
 
-* A novel non-thermal channel for leptogenesis via inflaton 3-body decay
-* Without the need to introduce (the traditional) $$\phi N N$$ coupling
+* One does not need to introduce (the traditional) $$\phi N N$$ coupling
 * The only assumptions:
     * $$\phi H^{\dagger} H$$ for reheating
     * $$H \ell N$$  for neutrio mass via Type-I see-saw
