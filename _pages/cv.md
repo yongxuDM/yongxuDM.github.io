@@ -73,25 +73,25 @@ Talks/Conferences
 * [MPIK Theory Seminar](https://www.mpi-hd.mpg.de/lin/seminar_theory/talks/Talk_Xu_131221.pdf) (invited talk 13 Dec. 2021)
     * Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis
       
-* [VLDM2021](https://www.youtube.com/watch?v=VKzevWJuIbs&list=PL_c5YhcJ-fpIBEuIgXnlyJZwm9Zn2zNgw&index=10) (Tokyo, September 2021)
+* [VLDM2021](https://indico.desy.de/event/26540/overview) (Tokyo, September 2021)
   * Talk: Axion DM in the Time of PBHs
     
-* DPF2021 (Florida, July 2021)
+* [DPF2021](https://indico.desy.de/event/26540/overview) (Florida, July 2021)
   * Talk: Polynomial Inflation and Dark Matter
     
-* DESY21 Theory Workshop (Hamburg, 22 Sep. 2021)
+* [DESY21 Theory Workshop](https://indico.desy.de/event/26540/overview) (Hamburg, 22 Sep. 2021)
    * Talk: Small field Polynomial Inflation
      
-* CoCo2021 (Bogota,  September 2021)
-   * Talk: Small field Polynomial Inflation
+* [CoCo2021](https://indico.cern.ch/event/1040803/) (Bogota,  September 2021)
+   * Talk (online): Small field Polynomial Inflation
      
-* MOCa2021 (Bogota, June 2021)
-   * Talk: A Renormalizable Model for Inflation and Dark Matter
+* [MOCa2021](https://indico.cern.ch/event/1004867/) (Bogota, June 2021)
+   * Talk (online): A Renormalizable Model for Inflation and Dark Matter
      
-* PPC21 (Oklahoma, 19 May 2021)
-   * Talk: Small field Polynomial Inflation
+* [PPC21](https://indico.cern.ch/event/822029/) (Oklahoma, 19 May 2021)
+   * Talk (online): Small field Polynomial Inflation
   
-* COSMO19  (Aachen Sep2019)
+* [COSMO19](https://indico.cern.ch/event/782784/)  (Aachen Sep2019)
    * Poster: Overshooting, critical Higgs inflation, PBHs production and induced GWs
   
 
