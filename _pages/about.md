@@ -19,6 +19,7 @@ Recent Research Interests
 ======
 * Gravitational Wave
 * Black Hole Superradiance and Dark Matter
+* Baryogenesis
 * Physics of (p)reheating
 * Cosmic Inflation
   
@@ -54,7 +55,7 @@ Letogenesis from 3-body Decay
 
 * A novel non-thermal channel for leptogenesis via inflaton 3-body decay
 * Without the need to introduce $$\phi N N$$ coupling
-
+<img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk">
 
 Probing Reheating With Axion Experiments
 --
