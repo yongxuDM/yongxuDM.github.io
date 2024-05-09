@@ -101,7 +101,15 @@ A spinning black hole can effectively transmit energy to its surroundings throug
 
 Questions I always ask myslef
 ======
-Which problems I wish to attack if I settle down??
+Which (big) problems I wish to attack if I settle down and have enough time?? 
+
+
+Some Goodreads
+======
+* Feynman's Rainbow by Leonard Mlodinow
+* A Guide to Research by Daniel Green
+* A PhD Is Not Enough by Peter J. Feibelman (useful for practical purpose)
+
 
 <!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
 
