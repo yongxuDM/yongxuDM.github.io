@@ -83,8 +83,8 @@ Resonant Reheating
  * For non-contact interactions, a massless graviton mediator has been discussed in lieterature
  * We explore reheating via inflaton annihilation via a massive mediator [2404.16090](https://arxiv.org/abs/2404.16090)
  * Novel features show up, including
-   * Resonant production of radiation, non-trival temperature evolution
-   * Interesting particle physics and cosmo implications   
+   * Resonant production of radiation and non-trival temperature evolution
+   * Interesting implications on particle physics and cosmo    
 
 <img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="730" height="700">
 
