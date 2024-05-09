@@ -86,7 +86,7 @@ Resonant Reheating
    * Resonant production of radiation, non-trival temperature evolution
    * Interesting particle physics and cosmo implications   
 
-<img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="630" height="600">
+<img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="730" height="700">
 
    
 Black Hole Superradiance and Dark Matter
