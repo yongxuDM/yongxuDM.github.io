@@ -155,6 +155,7 @@ Teaching
 
 * Summer Term 2019
   * Tutor
+  * Teaching (1 week) on QFT in curved spacetime
   * Theoretical Astro-particle Physics, [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
 
 * Winter Term 2018/19
