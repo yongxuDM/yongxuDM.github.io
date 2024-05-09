@@ -103,8 +103,7 @@ Questions I always ask myslef
 --
 Which problems I wish to attack if I settle down and do not need to worry about posdoc application
 
-* 1
-* 2
+* ?
 
 <!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
 
