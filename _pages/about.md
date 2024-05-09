@@ -84,7 +84,7 @@ Resonant Reheating
  * We explore reheating via inflaton annihilation via a massive mediator [2404.16090](https://arxiv.org/abs/2404.16090)
  * Novel features show up, including
    * Resonant production of radiation and non-trival temperature evolution
-   * Interesting implications on particle physics and cosmo    
+   * Interesting implications on particle physics pheno and cosmo    
 
 <img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="730" height="700">
 
