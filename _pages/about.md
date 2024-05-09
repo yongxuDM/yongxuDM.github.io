@@ -77,6 +77,10 @@ Probing Reheating With Axion Experiments
  * Inflaton oscillating in a generic potential $$ \phi^{n} $$
  * Extended axion parameter space depends on both the value of $$n$$ and the type of inflaton matter coupling
 
+Resonant Reheating
+--
+<img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="430" height="400">
+
    
 Black Hole Superradiance and Dark Matter
 --
