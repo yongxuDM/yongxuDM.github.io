@@ -79,6 +79,10 @@ Probing Reheating With Axion Experiments
 
 Resonant Reheating
 --
+ * Tradiationally reheating via inflaton contact interaction such as  $$ \phi h^2 $$,  $$ \phi^2 h^2 $$
+ * For non-contact interactions, a massless graviton mediator has been discussed in lieterature
+ * We explore reheating via inflaton annihilation via a massive mediator [2404.16090](https://arxiv.org/abs/2404.16090)
+
 <img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="430" height="400">
 
    
