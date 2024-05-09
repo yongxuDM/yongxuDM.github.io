@@ -70,7 +70,7 @@ Probing Reheating With Axion Experiments
 💪 💪  My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322)
 
  <img src="/images/QCD_Axion.png" alt="Editing a markdown file for a talk" width="400" height="400">  
-<img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="630" height="600">
+<img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="430" height="400">
 
 
 
@@ -86,7 +86,7 @@ Resonant Reheating
    * Resonant production of radiation, non-trival temperature evolution
    * Interesting particle physics and cosmo implications   
 
-<img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="430" height="400">
+<img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="630" height="600">
 
    
 Black Hole Superradiance and Dark Matter
