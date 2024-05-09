@@ -62,7 +62,7 @@ The idea is very simple:
     * $$H \ell N$$  for neutrio mass via Type-I see-saw
 
   
-<img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk" width="400" height="300" >
+<img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk" >
 
 Probing Reheating With Axion Experiments
 --
