@@ -99,12 +99,12 @@ A spinning black hole can effectively transmit energy to its surroundings throug
 * (Super) Heavy BH and (Ultra) Light DM
 
 
-<!--Questions I always ask myslef
+Questions I always ask myslef
 ======
-Which (big) problems I wish to attack if I settle down and have enough time?? 
--->
+Which (big) problems I wish to attack if I settle down and have enough time?
 
-<!-- Some Goodreads
+
+Some Goodreads
 ======
 As a poor man, I am always trying to optimize the metric by learining from other people.
 
@@ -112,7 +112,6 @@ As a poor man, I am always trying to optimize the metric by learining from other
 * A Guide to Research by Daniel Green
 * You and Your Research by Richard Hamming
 * A PhD Is Not Enough by Peter J. Feibelman (useful for practical purpose)
--->
 
 
 <!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
