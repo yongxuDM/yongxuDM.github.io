@@ -108,9 +108,9 @@ Some Goodreads
 ======
 As a poor man, I am always trying to optimize the metric by learining from other people.
 
-* Feynman's Rainbow by Leonard Mlodinow
 * A Guide to Research by Daniel Green
 * You and Your Research by Richard Hamming
+* Feynman's Rainbow by Leonard Mlodinow
 * A PhD Is Not Enough by Peter J. Feibelman (useful for practical purpose)
 
 
