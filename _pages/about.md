@@ -106,7 +106,7 @@ Which (big) problems I wish to attack if I settle down and have enough time??
 
 Some Goodreads
 ======
-As a poor man, I am always trying to find a good metirc.
+As a poor man, I am always trying to optimize the metirc by learining from other people.
 
 * Feynman's Rainbow by Leonard Mlodinow
 * A Guide to Research by Daniel Green
