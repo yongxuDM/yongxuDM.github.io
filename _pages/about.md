@@ -70,7 +70,7 @@ Probing Reheating With Axion Experiments
 💪 💪  My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322)
 
  <img src="/images/QCD_Axion.png" alt="Editing a markdown file for a talk" width="400" height="400">  
-<img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="550" height="500">
+<img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="450" height="400">
 
 
 
