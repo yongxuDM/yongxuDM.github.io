@@ -108,6 +108,7 @@ Some Goodreads
 ======
 * Feynman's Rainbow by Leonard Mlodinow
 * A Guide to Research by Daniel Green
+* You and Your Research by Richard Hamming
 * A PhD Is Not Enough by Peter J. Feibelman (useful for practical purpose)
 
 
