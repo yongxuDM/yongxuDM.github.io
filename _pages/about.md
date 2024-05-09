@@ -101,7 +101,7 @@ A spinning black hole can effectively transmit energy to its surroundings throug
 
 Questions I always ask myslef
 ======
-Which (big) problems I wish to attack if I settle down and have enough time? I wish to have a list soon.
+Which (big) problems I wish to attack if I settle down and have enough time? I wish I could have a list soon.
 
 
 Some Goodreads
