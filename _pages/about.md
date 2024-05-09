@@ -106,6 +106,8 @@ Which (big) problems I wish to attack if I settle down and have enough time??
 
 Some Goodreads
 ======
+As a poor man, I am always trying to find a good metirc.
+
 * Feynman's Rainbow by Leonard Mlodinow
 * A Guide to Research by Daniel Green
 * You and Your Research by Richard Hamming
