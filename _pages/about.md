@@ -100,10 +100,8 @@ A spinning black hole can effectively transmit energy to its surroundings throug
 
 
 Questions I always ask myslef
---
-Which problems I wish to attack if I settle down and do not need to worry about posdoc application
-
-* ??
+======
+Which problems I wish to attack if I settle down??
 
 <!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
 
