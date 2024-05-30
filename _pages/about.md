@@ -47,9 +47,9 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 <!-- * The GW spectrum takes a form: -->
 
-<img src="/images/YX_OGW_dec_Bos_n246.png" alt="Editing a markdown file for a talk" width="450" height="400"> <img src="/images/YX_OGW_dec_Ferm_n246.png" alt="Editing a markdown file for a talk" width="450" height="400">
+<!-- <img src="/images/YX_OGW_dec_Bos_n246.png" alt="Editing a markdown file for a talk" width="450" height="400"> <img src="/images/YX_OGW_dec_Ferm_n246.png" alt="Editing a markdown file for a talk" width="450" height="400">  -->
 
-
+<img src="/images/YX_OGW_dec_Bos_Ferm_n246.png" alt="Editing a markdown file for a talk" width="450" height="400"> 
 
 <!-- <img src="/images/YX_hc_VFS.png" alt="Editing a markdown file for a talk" width="450" height="500"> -->
 
