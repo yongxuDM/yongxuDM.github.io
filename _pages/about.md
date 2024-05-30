@@ -58,8 +58,8 @@ Letogenesis from 3-body Decay
 We recently found a novel  channel for non-thermal   leptogenesis via inflaton 3-body decay [2401.02485](https://arxiv.org/abs/2401.02485).
 The idea is very simple:
 
-<img src="/images/phiHLN.png" alt="Editing a markdown file for a talk"> <img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk" width="430" height="400" >
-
+<! -- <img src="/images/phiHLN.png" alt="Editing a markdown file for a talk"> <img src="/images/Trh_mphi_phiHLN.png" alt="Editing a markdown file for a talk" width="430" height="400" > -->
+<img src="/images/Leptogenesis_3_body.png" alt="Editing a markdown file for a talk" width="430" height="400" >
 
 * One does not need to introduce (the traditional) $$\phi N N$$ coupling
 * The only assumptions:
