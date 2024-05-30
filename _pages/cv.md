@@ -52,6 +52,7 @@ Seminar and Conference
 
 * [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
    * Talk: Probing Reheating with Graviton Bremsstrahlung
+   * [PDF](https://indico.cern.ch/event/1339497/contributions/5801419/attachments/2844415/4972963/XU_MPIK.pdf)
 
 * [New Physics Directions in the LHC era and beyond](https://indico.cern.ch/event/1339497/overview) (MPIK Heidelberg,  April 2024)
    * Talk: Probing Reheating via Axion Experiments
