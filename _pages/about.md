@@ -75,7 +75,7 @@ Probing Reheating With Axion Experiments
 
  <!-- <img src="/images/QCD_Axion.png" alt="Editing a markdown file for a talk" width="400" height="400"> <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="430" height="400"> -->
 
-<img src="/images/axion_alp" alt="Editing a markdown file for a talk" width="800" height="400">
+<img src="/images/axion_alp.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
  * Inflaton oscillating in a generic potential $$ \phi^{n} $$
  * Extended axion parameter space depends on both the value of $$n$$ and the type of inflaton matter coupling
