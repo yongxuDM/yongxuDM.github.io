@@ -107,7 +107,7 @@ A spinning black hole can effectively transmit energy to its surroundings throug
 
 * Light BH and Heavy DM [2205.11522](https://arxiv.org/abs/2205.11522)
   
-* (Super) Heavy BH and (Ultra) Light DM
+* (Super) Heavy BH and (Ultra) Light DM 🐣
 
 
 <!-- Questions I always ask myslef
