@@ -56,7 +56,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
 --
 
-* My second "first author" paper [2407.03256](https://arxiv.org/abs/2407.03256)  🐤
+* My second "first author" paper [2407.03256](https://arxiv.org/abs/2407.03256)  🐤🐤
 * I systematically investigated the  ultra-high frequency GWs from gravitons generated during inflationary reheating. The processes under consideration include: $$(i)$$ $$1 \to 3$$ graviton Bremsstrahlung, $$(ii)$$ $$2 \to 2$$ scattering of the inflaton and its decay products, $$(iii)$$ pure inflaton $$2 \to 2$$ scattering, and $$(iv)$$ one-loop induced inflaton decay.
 * After a comprehensive comparison among the four sources of GWs, I identified the conditions under which dominant sources emerge.
 
@@ -79,7 +79,7 @@ The idea is very simple:
 Probing Reheating With Axion Experiments
 --
 
-💪 💪  My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322)
+My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322) 🐤
 
  <!-- <img src="/images/QCD_Axion.png" alt="Editing a markdown file for a talk" width="400" height="400"> <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="430" height="400"> -->
 
