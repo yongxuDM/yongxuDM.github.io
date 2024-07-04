@@ -53,7 +53,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 <!-- <img src="/images/YX_hc_VFS.png" alt="Editing a markdown file for a talk" width="450" height="500"> -->
 
-🐌 Ultra-high GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
+🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
 --
 
 * My second "first author" paper [2407.03256](https://arxiv.org/abs/2407.03256)  🐤
