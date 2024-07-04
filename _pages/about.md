@@ -27,7 +27,7 @@ Recent Research Interests
  
 🌟 Research Highlight 🌟
 ======
-:fire: Gravitational Wave from Graviton Bremsstrahlung  :fire:
+:fire: Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating :fire:
 --
 
 Gravitational Wave from Graviton Bremsstrahlung 
