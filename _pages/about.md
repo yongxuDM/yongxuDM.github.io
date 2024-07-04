@@ -60,7 +60,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 * I systematically investigated the  ultra-high frequency GWs from gravitons generated during inflationary reheating. The processes under consideration include: $$(i)$$ $$1 \to 3$$ graviton Bremsstrahlung, $$(ii)$$ $$2 \to 2$$ scattering of the inflaton and its decay products, $$(iii)$$ pure inflaton $$2 \to 2$$ scattering, and $$(iv)$$ one-loop induced inflaton decay.
 * After a comprehensive comparison among the four sources of GWs, I identified the conditions under which dominant sources emerge.
 
-<img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="400" height="400" > <img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="400" height="400" >
+<img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="400" height="400" > <img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="400" height="380" >
 
 Letogenesis from 3-body Decay
 --
