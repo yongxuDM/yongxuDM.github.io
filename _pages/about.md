@@ -27,7 +27,7 @@ Recent Research Interests
  
 🌟 Research Highlight 🌟
 ======
-Gravitational Wave from Graviton Bremsstrahlung 
+:fire: Gravitational Wave from Graviton Bremsstrahlung  :fire:
 --
 
 Gravitational Wave from Graviton Bremsstrahlung 
