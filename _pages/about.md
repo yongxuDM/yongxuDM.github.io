@@ -16,9 +16,6 @@ My name is XU (徐) Yong (勇). I grew up in Xinyang, Henan, China. 🗣️ My m
 
 <!--  [Inspire Page](https://inspirehep.net/authors/1737900?ui-citation-summary=true)-->
 
-I am currently in a summer break till August 27, 2024.
---
-
 Recent Research Interests
 ======
 * Gravitational Wave
