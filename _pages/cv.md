@@ -46,9 +46,16 @@ Skills
 
 Seminar and Conference
 ======
-
+* [DESY Theory Workshop 2024](https://indico.desy.de/event/43923/overview) (Munich,  July 2024)
+    * Talk: Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating
+* [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
+   * Talk: Probing Reheating with Graviton Bremsstrahlung
+* [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
+   * Talk: Probing Reheating with Graviton Bremsstrahlung
+* [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
+   * Talk: Probing Reheating with Graviton Bremsstrahlung
 * [MIAPbP workshop: QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
-    *Talk: GWs from Scattering, Bremsstrahlung, and Decay 
+    * Talk: GWs from Scattering, Bremsstrahlung, and Decay 
 
 * [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
    * Talk: Probing Reheating with Graviton Bremsstrahlung
@@ -60,7 +67,7 @@ Seminar and Conference
     * Talk:  Gravitational Wave from Graviton Bremsstrahlung
        
 * [lawphysics: Latin American webinars on physics](https://lawphysics.wordpress.com/2023/05/22/w145-yong-xu-gravitational-waves-from-graviton-bremsstrahlung-during-reheating/) (May 22, 2023)
-    *Invited Talk:  GRAVITATIONAL WAVES FROM GRAVITON BREMSSTRAHLUNG DURING REHEATING
+    * Invited Talk:  GRAVITATIONAL WAVES FROM GRAVITON BREMSSTRAHLUNG DURING REHEATING
       
       
 * [Workshop on Theoretical Particle Cosmology in the Early and Late Universe](https://www.physics.ntua.gr/corfu2023/hu.html) (Corfu, May 2023)
