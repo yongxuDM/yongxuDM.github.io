@@ -48,12 +48,12 @@ Seminar and Conference
 ======
 * [DESY Theory Workshop 2024](https://indico.desy.de/event/43923/overview) (Munich,  July 2024)
     * Talk: Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating
-* [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
+* [The 3rd International Workshop on BSM Frontiers: Where to Next?](https://indico-tdli.sjtu.edu.cn/event/2379/) (Beihang U,  August 2024)
    * Talk: Probing Reheating with Graviton Bremsstrahlung
-* [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
-   * Talk: Probing Reheating with Graviton Bremsstrahlung
-* [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
-   * Talk: Probing Reheating with Graviton Bremsstrahlung
+* [ITP-CAS Seminar (invited) ](https://itp.cas.cn/kxyj/xshd/xsbg/202408/t20240801_7238908.html) (August 1, 2024)
+    *  Probing Reheating with Graviton Bremsstrahlung
+* [ICTP-AP Seminar (invited)](https://ictp-ap.org/event/165) (August 1, 2024)
+    *  Probing Reheating with Graviton Bremsstrahlung
 * [MIAPbP workshop: QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
     * Talk: GWs from Scattering, Bremsstrahlung, and Decay 
 
