@@ -53,6 +53,7 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 <!-- <img src="/images/YX_hc_VFS.png" alt="Editing a markdown file for a talk" width="450" height="500"> -->
 
+
 🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
 --
 
@@ -61,6 +62,14 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 * After a comprehensive comparison among the four sources of GWs, I identified the conditions under which dominant sources emerge.
 
 <img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="370" height="370" ><img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="370" height="350" >
+
+Probing Reheating with Graviton Bremsstrahlung 
+--
+* This is a proposal to use High-frequency  Bremsstrahlung GWs to probe two important parameters: reheating temperature $$T_{\text{rh}}$$ and inflaton mass $$m_\phi$$  
+* Peak frequency $$f_{\text{peak}}\simeq 9.5 \cdot10^{9}\,\left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)\, \left(\frac{ 10^{13}~\text{GeV}}{\Trh}\right) \text{Hz}$$ 
+* Amplitude of peak  $$\Omega_{GW}^{1\to3}h^2(f_{\text{peak}}) \simeq  \mathcal{O} (10^{-18})    \left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)^2}$$ 
+
+
 
 Letogenesis from 3-body Decay
 --
