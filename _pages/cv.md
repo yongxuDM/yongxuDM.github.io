@@ -14,7 +14,7 @@ Education
 * Ph.D in theoretical physics, University of Bonn, 2018 - 2022
     <!-- * Thesis: Polynomial Inflation and Its Aftermath [PDF](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/10407) -->
       
-* M.S. in theoretical physics, University of Bonn, 2016 - 2018
+* M.Sc. in theoretical physics, University of Bonn, 2016 - 2018
      <!--  * Thesis: Higgs Inflation In the Early Universe -->
       
 <!-- * B.S. in physics, China Three Gorges University, 2012 -2016 -->
