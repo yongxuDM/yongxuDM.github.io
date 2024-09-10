@@ -65,9 +65,9 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 
 Probing Reheating with Graviton Bremsstrahlung 
 --
-* This is a proposal to use High-frequency  Bremsstrahlung GWs to probe two important parameters: reheating temperature $$T_{\text{rh}}$$ and inflaton mass $$m_\phi$$  
-* Peak frequency $$f_{\text{peak}}\simeq 9.5 \cdot10^{9}\,\left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)\, \left(\frac{ 10^{13}~\text{GeV}}{T_{\text{rh}}}\right) \text{Hz}$$ 
+* This is a proposal based on [2407.03256](https://arxiv.org/abs/2407.03256) to use High-frequency  Bremsstrahlung GWs to probe two important parameters:  inflaton mass $$m_\phi$$ and reheating temperature $$T_{\text{rh}}$$ 
 * Amplitude of peak  $$\Omega_{GW}^{1\to3}h^2(f_{\text{peak}}) \simeq \mathcal{O} (10^{-18})    \left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)^2$$ 
+* Location of Peak frequency $$f_{\text{peak}}\simeq 9.5 \cdot10^{9}\,\left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)\, \left(\frac{ 10^{13}~\text{GeV}}{T_{\text{rh}}}\right) \text{Hz}$$ 
 
 <img src="/images/YX_OGW_1to3_talk_exp.png" alt="Editing a markdown file for a talk" width="600" height="300"> 
 
