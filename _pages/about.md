@@ -67,7 +67,7 @@ Probing Reheating with Graviton Bremsstrahlung
 --
 * This is a proposal to use High-frequency  Bremsstrahlung GWs to probe two important parameters: reheating temperature $$T_{\text{rh}}$$ and inflaton mass $$m_\phi$$  
 * Peak frequency $$f_{\text{peak}}\simeq 9.5 \cdot10^{9}\,\left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)\, \left(\frac{ 10^{13}~\text{GeV}}{\Trh}\right) \text{Hz}$$ 
-* Amplitude of peak  $$\Omega_{GW}^{1\to3}h^2(f_{\text{peak}}) \simeq  \mathcal{O} (10^{-18})    \left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)^2}$$ 
+* Amplitude of peak  $$\Omega_{GW}^{1\to3}h^2(f_{\text{peak}}) \simeq \mathcal{O} (10^{-18})    \left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)^2$$ 
 
 
 
