@@ -18,11 +18,13 @@ My name is XU (徐) Yong (勇). I grew up in Xinyang, Henan, China. 🗣️ My m
 
 Recent Research Interests
 ======
-* Gravitational Wave
-* Black Hole Superradiance and Dark Matter
-* Baryogenesis
-* Physics of (p)reheating
-* Cosmic Inflation
+* Gravitational Wave in the early Universe
+* Multimessenger probe of physics before BBN
+* Phenomenology of Black Hole superradiance, Hawking radiation and Dark Sector
+* Inflation and Its aftermath: physics of (p)reheating, DM production and Mechanism of Baryogenesis
+* Axion cosmology
+* Cosmological perturbations, Primordial Black Hole formation and Gravitational Wave Signatures
+
   
  
 🌟 Research Highlight 🌟
