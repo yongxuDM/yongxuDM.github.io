@@ -33,6 +33,37 @@ Recent Research Interests
 🌟 Research Highlight 🌟
 ======
 
+Probing Reheating With Axion Experiments
+--
+
+My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322) 
+
+ <!-- <img src="/images/QCD_Axion.png" alt="Editing a markdown file for a talk" width="400" height="400"> <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="430" height="400"> -->
+
+<img src="/images/axion_alp.png" alt="Editing a markdown file for a talk" width="800" height="400">
+
+ * Inflaton oscillating in a generic potential $$ \phi^{n} $$
+ * Extended axion parameter space depends on both the value of $$n$$ and the type of inflaton matter coupling
+
+🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
+--
+
+* My second "first author" paper [2407.03256](https://arxiv.org/abs/2407.03256)  
+* I systematically investigated the  ultra-high frequency GWs from gravitons generated during inflationary reheating. The processes under consideration include: $$(i)$$ $$1 \to 3$$ graviton Bremsstrahlung, $$(ii)$$ $$2 \to 2$$ scattering of the inflaton and its decay products, $$(iii)$$ pure inflaton $$2 \to 2$$ scattering, and $$(iv)$$ one-loop induced inflaton decay.
+* After a comprehensive comparison among the four sources of GWs, I identified the conditions under which dominant sources emerge.
+
+<img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="370" height="370" ><img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="370" height="350" >
+
+Probing Reheating with Graviton Bremsstrahlung 
+--
+* This is a proposal based on one of my recent paper [2407.03256](https://arxiv.org/abs/2407.03256) to use High-frequency  Bremsstrahlung GWs to probe two important parameters:  inflaton mass $$m_\phi$$ and reheating temperature $$T_{\text{rh}}$$ 
+* Amplitude of peak  $$\Omega_{GW}^{1\to3}h^2(f_{\text{peak}}) \simeq \mathcal{O} (10^{-18})    \left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)^2$$ 
+* Location of peak frequency $$f_{\text{peak}}\simeq 9.5 \cdot10^{9}\,\left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)\, \left(\frac{ 10^{13}~\text{GeV}}{T_{\text{rh}}}\right) \text{Hz}$$ 
+
+<img src="/images/YX_OGW_1to3_talk_exp.png" alt="Editing a markdown file for a talk" width="600" height="300"> 
+
+
+
 Gravitational Wave from Graviton Bremsstrahlung 
 --
 I am recently working on an interesting and unavoidable stochastic gravitational wave (GW) background from Graviton Bremsstrahlung during inflationary reheating [2301.11345](https://arxiv.org/abs/2301.11345). The idea is very simple:
@@ -59,23 +90,6 @@ I am recently working on an interesting and unavoidable stochastic gravitational
 <!-- <img src="/images/YX_hc_VFS.png" alt="Editing a markdown file for a talk" width="450" height="500"> -->
 
 
-🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
---
-
-* My second "first author" paper [2407.03256](https://arxiv.org/abs/2407.03256)  
-* I systematically investigated the  ultra-high frequency GWs from gravitons generated during inflationary reheating. The processes under consideration include: $$(i)$$ $$1 \to 3$$ graviton Bremsstrahlung, $$(ii)$$ $$2 \to 2$$ scattering of the inflaton and its decay products, $$(iii)$$ pure inflaton $$2 \to 2$$ scattering, and $$(iv)$$ one-loop induced inflaton decay.
-* After a comprehensive comparison among the four sources of GWs, I identified the conditions under which dominant sources emerge.
-
-<img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="370" height="370" ><img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="370" height="350" >
-
-Probing Reheating with Graviton Bremsstrahlung 
---
-* This is a proposal based on one of my recent paper [2407.03256](https://arxiv.org/abs/2407.03256) to use High-frequency  Bremsstrahlung GWs to probe two important parameters:  inflaton mass $$m_\phi$$ and reheating temperature $$T_{\text{rh}}$$ 
-* Amplitude of peak  $$\Omega_{GW}^{1\to3}h^2(f_{\text{peak}}) \simeq \mathcal{O} (10^{-18})    \left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)^2$$ 
-* Location of peak frequency $$f_{\text{peak}}\simeq 9.5 \cdot10^{9}\,\left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)\, \left(\frac{ 10^{13}~\text{GeV}}{T_{\text{rh}}}\right) \text{Hz}$$ 
-
-<img src="/images/YX_OGW_1to3_talk_exp.png" alt="Editing a markdown file for a talk" width="600" height="300"> 
-
 
 Letogenesis from 3-body Decay
 --
@@ -93,17 +107,7 @@ The idea is very simple:
 
   
 
-Probing Reheating With Axion Experiments
---
 
-My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322) 
-
- <!-- <img src="/images/QCD_Axion.png" alt="Editing a markdown file for a talk" width="400" height="400"> <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="430" height="400"> -->
-
-<img src="/images/axion_alp.png" alt="Editing a markdown file for a talk" width="800" height="400">
-
- * Inflaton oscillating in a generic potential $$ \phi^{n} $$
- * Extended axion parameter space depends on both the value of $$n$$ and the type of inflaton matter coupling
 
 Resonant Reheating
 --
