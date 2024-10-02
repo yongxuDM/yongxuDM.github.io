@@ -52,7 +52,7 @@ Seminar and Conference
    * Talk: Probing Reheating with Graviton Bremsstrahlung
 * [ITP-CAS Seminar (invited) ](https://itp.cas.cn/kxyj/xshd/xsbg/202408/t20240801_7238908.html) (Beijing, August 8, 2024)
     *  Probing Reheating with Graviton Bremsstrahlung
-* [ICTP-AP Seminar (invited)](https://ictp-ap.org/event/165) (Beijing, August 1, 2024)
+* [International Centre for Theoretical Physics Asia-Pacific (ICTP-AP)  Seminar (invited)](https://ictp-ap.org/event/165) (Beijing, August 1, 2024)
     *  Probing Reheating with Graviton Bremsstrahlung
 * [MIAPbP workshop: QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
     * Invited Talk: GWs from Scattering, Bremsstrahlung, and Decay 
@@ -85,22 +85,22 @@ Seminar and Conference
 * [MPIK Theory Seminar](https://www.mpi-hd.mpg.de/lin/seminar_theory/talks/Talk_Xu_131221.pdf) (invited talk 13 Dec. 2021)
     * Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis
       
-* [VLDM2021](https://indico.ipmu.jp/event/392/) (Tokyo, September 2021)
+* [Workshop on Very Light DM](https://indico.ipmu.jp/event/392/) (Tokyo, September 2021)
   * Talk (online): Axion DM in the Time of PBHs
     
-* [DPF2021](https://indico.cern.ch/event/1034469/) (Florida, July 2021)
+* [2021 Meeting of the Division of Particles and Fields of the American Physical Society (DPF21)](https://indico.cern.ch/event/1034469/) (Florida, July 2021)
   * Talk (online): Polynomial Inflation and Dark Matter
     
 * [DESY21 Theory Workshop](https://indico.desy.de/event/26540/overview) (Hamburg, September 2021)
    * Talk (online): Small field Polynomial Inflation
      
-* [CoCo2021](https://indico.cern.ch/event/1040803/) (Bogota,  September 2021)
+* [CoCo 2o21: Cosmology in Colombia](https://indico.cern.ch/event/1040803/) (Bogota,  September 2021)
    * Talk (online): Small field Polynomial Inflation
      
-* [MOCa2021](https://indico.cern.ch/event/1004867/) (Bogota, June 2021)
+* [MOCa2021: (Materia Oscura en Colombia)](https://indico.cern.ch/event/1004867/) (Bogota, June 2021)
    * Talk (online): A Renormalizable Model for Inflation and Dark Matter
      
-* [PPC21](https://indico.cern.ch/event/822029/) (Oklahoma,  May 2021)
+* [PPC 2021: XIV International Workshop on Interconnections between Particle Physics and Cosmology](https://indico.cern.ch/event/822029/) (Oklahoma,  May 2021)
    * Talk (online): Small field Polynomial Inflation
   
 * [COSMO19](https://indico.cern.ch/event/782784/)  (Aachen September 2019)
