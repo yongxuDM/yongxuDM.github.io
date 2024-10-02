@@ -98,7 +98,7 @@ Seminar and Conference
 * [CoCo 2o21: Cosmology in Colombia](https://indico.cern.ch/event/1040803/) (Bogota,  September 2021)
    * Talk (online): Small field Polynomial Inflation
      
-* [MOCa2021: (Materia Oscura en Colombia)](https://indico.cern.ch/event/1004867/) (Bogota, June 2021)
+* [MOCa2021: Materia Oscura en Colombia](https://indico.cern.ch/event/1004867/) (Bogota, June 2021)
    * Talk (online): A Renormalizable Model for Inflation and Dark Matter
      
 * [PPC 2021: XIV International Workshop on Interconnections between Particle Physics and Cosmology](https://indico.cern.ch/event/822029/) (Oklahoma,  May 2021)
