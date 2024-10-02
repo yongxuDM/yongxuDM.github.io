@@ -84,7 +84,7 @@ Seminar and Conference
     * Talk: Polynomial Inflation and Its Aftermath
       
 * [MPIK Theory Seminar](https://www.mpi-hd.mpg.de/lin/seminar_theory/talks/Talk_Xu_131221.pdf) (13 Dec. 2021)
-    ***Invited Talk** Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis
+    * **Invited Talk** Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis
       
 * [Workshop on Very Light DM](https://indico.ipmu.jp/event/392/) (Tokyo, September 2021)
   * Talk (online): Axion DM in the Time of PBHs
