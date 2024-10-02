@@ -50,10 +50,11 @@ Seminar and Conference
     * Talk: Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating
 * [The 3rd International Workshop on BSM Frontiers: Where to Next?](https://indico-tdli.sjtu.edu.cn/event/2379/) (Beihang U,  August 19, 2024)
    * Talk: Probing Reheating with Graviton Bremsstrahlung
-* [ITP-CAS Seminar (invited) ](https://itp.cas.cn/kxyj/xshd/xsbg/202408/t20240801_7238908.html) (Beijing, August 8, 2024)
-    *  Probing Reheating with Graviton Bremsstrahlung
-* [International Centre for Theoretical Physics Asia-Pacific (ICTP-AP)  Seminar (invited)](https://ictp-ap.org/event/165) (Beijing, August 1, 2024)
-    *  Probing Reheating with Graviton Bremsstrahlung
+* [ITP-CAS Seminar ](https://itp.cas.cn/kxyj/xshd/xsbg/202408/t20240801_7238908.html) (Beijing, August 8, 2024)
+    *Invited talk: Probing Reheating with Graviton Bremsstrahlung
+* [International Centre for Theoretical Physics Asia-Pacific (ICTP-AP)  Seminar](https://ictp-ap.org/event/165) (Beijing, August 1, 2024)
+    * Invited talk: Probing Reheating with Graviton Bremsstrahlung
+    * I managed to give one hour blackboard presentation (without looking at any materials) 
 * [MIAPbP workshop: QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
     * Invited Talk: GWs from Scattering, Bremsstrahlung, and Decay 
 
