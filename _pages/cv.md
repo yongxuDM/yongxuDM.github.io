@@ -51,7 +51,7 @@ Seminar and Conference
 * [The 3rd International Workshop on BSM Frontiers: Where to Next?](https://indico-tdli.sjtu.edu.cn/event/2379/) (Beihang U,  August 19, 2024)
    * Talk: Probing Reheating with Graviton Bremsstrahlung
 * [ITP-CAS Seminar ](https://itp.cas.cn/kxyj/xshd/xsbg/202408/t20240801_7238908.html) (Beijing, August 8, 2024)
-    *Invited talk: Probing Reheating with Graviton Bremsstrahlung
+    * Invited talk: Probing Reheating with Graviton Bremsstrahlung
 * [International Centre for Theoretical Physics Asia-Pacific (ICTP-AP)  Seminar](https://ictp-ap.org/event/165) (Beijing, August 1, 2024)
     * Invited talk: Probing Reheating with Graviton Bremsstrahlung
 * [MIAPbP workshop: QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
