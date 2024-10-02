@@ -48,6 +48,9 @@ Recent Research Interests
 🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
 --
 
+<img src="/UFGW.png" alt="Editing a markdown file for a talk" width="800" height="400">
+
+
 * My second "first author" paper [2407.03256](https://arxiv.org/abs/2407.03256)  
 * I systematically investigated the  ultra-high frequency GWs from gravitons generated during inflationary reheating. The processes under consideration include: $$(i)$$ $$1 \to 3$$ graviton Bremsstrahlung, $$(ii)$$ $$2 \to 2$$ scattering of the inflaton and its decay products, $$(iii)$$ pure inflaton $$2 \to 2$$ scattering, and $$(iv)$$ one-loop induced inflaton decay.
 * After a comprehensive comparison among the four sources of GWs, I identified the conditions under which dominant sources emerge.
