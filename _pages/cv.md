@@ -51,12 +51,12 @@ Seminar and Conference
 * [The 3rd International Workshop on BSM Frontiers: Where to Next?](https://indico-tdli.sjtu.edu.cn/event/2379/) (Beihang U,  August 19, 2024)
    * Talk: Probing Reheating with Graviton Bremsstrahlung
 * [ITP-CAS Seminar ](https://itp.cas.cn/kxyj/xshd/xsbg/202408/t20240801_7238908.html) (Beijing, August 8, 2024)
-    * Invited talk: Probing Reheating with Graviton Bremsstrahlung
+    * **Invited Talk**: Probing Reheating with Graviton Bremsstrahlung
 * [International Centre for Theoretical Physics Asia-Pacific (ICTP-AP)  Seminar](https://ictp-ap.org/event/165) (Beijing, August 1, 2024)
-    * Invited talk: Probing Reheating with Graviton Bremsstrahlung
+    * **Invited Talk**: Probing Reheating with Graviton Bremsstrahlung
 * [MIAPbP workshop: QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
-    * Invited Talk: GWs from Scattering, Bremsstrahlung, and Decay
-    * 🌟 **One hour blackboard presentation (without looking at any material)** 🌟  
+    * **Invited Talk**: GWs from Scattering, Bremsstrahlung, and Decay
+    * 🌟 One hour blackboard presentation (without looking at any material) 🌟  
 
 * [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
    * Talk: Probing Reheating with Graviton Bremsstrahlung
@@ -68,7 +68,7 @@ Seminar and Conference
     * Talk:  Gravitational Wave from Graviton Bremsstrahlung
        
 * [lawphysics: Latin American webinars on physics](https://lawphysics.wordpress.com/2023/05/22/w145-yong-xu-gravitational-waves-from-graviton-bremsstrahlung-during-reheating/) (May 22, 2023)
-    * Invited Talk:  GRAVITATIONAL WAVES FROM GRAVITON BREMSSTRAHLUNG DURING REHEATING
+    * **Invited Talk**:  GRAVITATIONAL WAVES FROM GRAVITON BREMSSTRAHLUNG DURING REHEATING
       
       
 * [Workshop on Theoretical Particle Cosmology in the Early and Late Universe](https://www.physics.ntua.gr/corfu2023/hu.html) (Corfu, May 2023)
@@ -83,8 +83,8 @@ Seminar and Conference
 * [Planck 2022](https://indico.in2p3.fr/event/24773/contributions/110792/) (Paris, June 2022 )
     * Talk: Polynomial Inflation and Its Aftermath
       
-* [MPIK Theory Seminar](https://www.mpi-hd.mpg.de/lin/seminar_theory/talks/Talk_Xu_131221.pdf) (invited talk 13 Dec. 2021)
-    * Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis
+* [MPIK Theory Seminar](https://www.mpi-hd.mpg.de/lin/seminar_theory/talks/Talk_Xu_131221.pdf) (13 Dec. 2021)
+    ***Invited Talk** Polynomial Inflation and Its Aftermath: (P)reheating, DM and Leptogenesis
       
 * [Workshop on Very Light DM](https://indico.ipmu.jp/event/392/) (Tokyo, September 2021)
   * Talk (online): Axion DM in the Time of PBHs
