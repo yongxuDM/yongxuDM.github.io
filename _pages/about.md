@@ -33,8 +33,8 @@ Recent Research Interests
 🌟 Research Highlight 🌟
 ======
 
-Probing Reheating With Axion Experiments
---
+<!--  Probing Reheating With Axion Experiments-->
+
 <img src="/images/PRD_Axion.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
  <!-- <img src="/images/QCD_Axion.png" alt="Editing a markdown file for a talk" width="400" height="400"> <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="430" height="400"> -->
