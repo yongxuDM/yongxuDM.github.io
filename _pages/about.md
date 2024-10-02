@@ -48,7 +48,7 @@ Recent Research Interests
 🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
 --
 
-<img src="/UFGW.png" alt="Editing a markdown file for a talk" width="800" height="400">
+<img src="/UHGW.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
 
 * My second "first author" paper [2407.03256](https://arxiv.org/abs/2407.03256)  
