@@ -21,11 +21,11 @@ My research focuses on the intersection of particle physics and cosmology. Motiv
 
 Recent Research Interests
 ======
-* Gravitational Wave in the early Universe
-* Multimessenger probe of physics before BBN
-* Phenomenology of Black Hole superradiance, Hawking radiation and Dark Sector
-* Inflation and Its aftermath: physics of (p)reheating, DM production and Mechanism of Baryogenesis
-* Axion cosmology
+* Gravitational Wave from Graviton Production in the Early Universe
+* Multimessenger Probe of Physics before BBN
+* Phenomenology of Black Hole Superradiance, Hawking Radiation and Dark Sector
+* Inflation and Its aftermath: Physics of (p)reheating, DM production and Mechanism of Baryogenesis
+* Axion Cosmology
 * Cosmological perturbations, Primordial Black Hole formation and Gravitational Wave Signatures
 
   
