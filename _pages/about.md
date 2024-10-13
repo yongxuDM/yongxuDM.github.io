@@ -71,7 +71,7 @@ Probing Reheating with Graviton Bremsstrahlung
 
 Gravitational Wave from Graviton Bremsstrahlung 
 --
-I am recently working on an interesting and unavoidable stochastic gravitational wave (GW) background from Graviton Bremsstrahlung during inflationary reheating [2301.11345](https://arxiv.org/abs/2301.11345). The idea is very simple:
+An unavoidable stochastic gravitational wave (GW) background is from Graviton Bremsstrahlung during inflationary reheating [2301.11345](https://arxiv.org/abs/2301.11345). The idea is very simple:
 
 * Inflaton decay via coupling $$\phi \mathcal{F}\mathcal{F}$$ with  $$ \mathcal{F} \in  \{ \varphi, \psi \} $$ for bosonic and fermionic reheating
 <!-- * Gravitational interaction via coupling between energy momentum tensor and metric  $$T^{\mu \nu} g_{\mu \nu} $$ -->
