@@ -41,9 +41,10 @@ Recent Research Interests
 
 <img src="/images/axion_alp.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
-* My First "first-author"  Paper [2308.15322](https://arxiv.org/abs/2308.15322) 
+* Axion/ALP production during reheating [2308.15322](https://arxiv.org/abs/2308.15322) 
 * Inflaton oscillating in a generic potential $$ \phi^{n} $$
 * Extended axion parameter space depends on both the value of $$n$$ and the type of inflaton matter coupling
+* Probing reheating via axion experiments!
 
 🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
 --
