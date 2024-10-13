@@ -184,7 +184,7 @@ Service and leadership
 * Mainz [Theorie-Palaver](https://www.thep.physik.uni-mainz.de/theorie-palaver/) organizer
 * [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/) Group Journal Club  organizer
 
-Funding and Proposal
+Conference organization
 ======
 * [MITP Scientific Program: From the Cosmos to the Lab: Novel Links and Strategies (September 8 - 19, 2025)](https://indico.mitp.uni-mainz.de/event/411/)
 
