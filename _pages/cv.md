@@ -46,7 +46,7 @@ Skills
 
 Seminar and Conference
 ======
-* [DESY Theory Workshop 2024](https://indico.desy.de/event/43923/overview) (Hamburg,  September 2024)
+* [DESY Theory Workshop 2024](https://indico.desy.de/event/43923/overview) (Hamburg, 25 Sep. 2024)
     * Talk: Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating  [Slides](https://indico.desy.de/event/43923/contributions/173179/attachments/92699/125591/DESY_XU.pdf)
 * [The 3rd International Workshop on BSM Frontiers: Where to Next?](https://indico-tdli.sjtu.edu.cn/event/2379/) (Beihang U,  August 19, 2024)
    * Talk: Probing Reheating with Graviton Bremsstrahlung
