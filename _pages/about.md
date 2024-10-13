@@ -33,8 +33,8 @@ Recent Research Interests
 🌟 Research Highlight 🌟
 ===========================
 
-Probing Reheating With Axion Experiments
---------
+Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating
+---
 
  <!-- <img src="/images/UHGW.png" alt="Editing a markdown file for a talk" width="800" height="400"> -->
 
