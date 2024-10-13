@@ -31,21 +31,6 @@ Recent Research Interests
   
  
 🌟 Research Highlight 🌟
-======
-
-<!--  Probing Reheating With Axion Experiments-->
-
-<img src="/images/PRD_Axion.png" alt="Editing a markdown file for a talk" width="800" height="400">
-
- <!-- <img src="/images/QCD_Axion.png" alt="Editing a markdown file for a talk" width="400" height="400"> <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="430" height="400"> -->
-
-<img src="/images/axion_alp.png" alt="Editing a markdown file for a talk" width="800" height="400">
-
-* Axion/ALP production during reheating [2308.15322](https://arxiv.org/abs/2308.15322) 
-* Inflaton oscillating in a generic potential $$ \phi^{n} $$
-* Extended axion parameter space depends on both the value of $$n$$ and the type of inflaton matter coupling
-* Probing reheating via axion experiments!
-
 🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
 --
 
@@ -57,6 +42,20 @@ Recent Research Interests
 * After a comprehensive comparison among the four sources of GWs, I identified the conditions under which dominant sources emerge.
 
 <img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="370" height="370" ><img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="370" height="350" >
+
+Probing Reheating With Axion Experiments
+======
+
+<img src="/images/PRD_Axion.png" alt="Editing a markdown file for a talk" width="800" height="400">
+
+ <!-- <img src="/images/QCD_Axion.png" alt="Editing a markdown file for a talk" width="400" height="400"> <img src="/images/ALP.png" alt="Editing a markdown file for a talk" width="430" height="400"> -->
+
+<img src="/images/axion_alp.png" alt="Editing a markdown file for a talk" width="800" height="400">
+
+* Axion/ALP production during reheating [2308.15322](https://arxiv.org/abs/2308.15322) 
+* Inflaton oscillating in a generic potential $$ \phi^{n} $$
+* Extended axion parameter space depends on both the value of $$n$$ and the type of inflaton matter coupling
+* Probing reheating via axion experiments!
 
 Probing Reheating with Graviton Bremsstrahlung 
 --
