@@ -31,8 +31,10 @@ Recent Research Interests
   
  
 🌟 Research Highlight 🌟
-🐌 Ultra-high Frequency GWs from Scattering, Bremsstrahlung and Decay during Reheating 🐌
---
+===========================
+
+Probing Reheating With Axion Experiments
+--------
 
  <!-- <img src="/images/UHGW.png" alt="Editing a markdown file for a talk" width="800" height="400"> -->
 
@@ -44,7 +46,7 @@ Recent Research Interests
 <img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="370" height="370" ><img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="370" height="350" >
 
 Probing Reheating With Axion Experiments
-======
+----------------
 
 <img src="/images/PRD_Axion.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
