@@ -46,7 +46,7 @@ Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Dec
 <img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="370" height="370" ><img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="370" height="350" >
 
 Probing Reheating With Axion Experiments
-----------------
+--
 
 <img src="/images/PRD_Axion.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
@@ -59,7 +59,7 @@ Probing Reheating With Axion Experiments
 * Extended axion parameter space depends on both the value of $$n$$ and the type of inflaton matter coupling
 * Probing reheating via axion experiments!
 
-Probing Reheating with Graviton Bremsstrahlung 
+Probing Reheating with Bremsstrahlung GW 
 --
 * This is a proposal based on one of my recent paper [2407.03256](https://arxiv.org/abs/2407.03256) to use High-frequency  Bremsstrahlung GWs to probe two important parameters:  inflaton mass $$m_\phi$$ and reheating temperature $$T_{\text{rh}}$$ 
 * Amplitude of peak  $$\Omega_{GW}^{1\to3}h^2(f_{\text{peak}}) \simeq \mathcal{O} (10^{-18})    \left( \frac{m_\phi}{10^{13}~\text{GeV}}\right)^2$$ 
@@ -67,6 +67,13 @@ Probing Reheating with Graviton Bremsstrahlung
 
 <img src="/images/YX_OGW_1to3_talk_exp.png" alt="Editing a markdown file for a talk" width="600" height="300"> 
 
+Probing Reheating with  Gamma Ray
+--
+* WIMP dark matter production during reheating [2209.07546](https://arxiv.org/abs/2209.07546) 
+* 
+
+Probing Reheating with LLP Searchs at Collider
+--
 
 
 Gravitational Wave from Graviton Bremsstrahlung 
