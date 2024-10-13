@@ -67,16 +67,16 @@ Probing Reheating with Bremsstrahlung GW
 
 <img src="/images/YX_OGW_1to3_talk_exp.png" alt="Editing a markdown file for a talk" width="600" height="300"> 
 
-Probing Reheating with  Gamma Ray
---
-* WIMP dark matter production during reheating [2209.07546](https://arxiv.org/abs/2209.07546) 
-* 
+<!--Probing Reheating with  Gamma Ray-->
 
-Probing Reheating with LLP Searches at Collider
---
+<!-- WIMP dark matter production during reheating [2209.07546](https://arxiv.org/abs/2209.07546)  -->
 
 
- Gravitational Wave from Graviton Bremsstrahlung 
+<!--Probing Reheating with LLP Searches at Collider-->
+
+
+
+Gravitational Wave from Graviton Bremsstrahlung 
 --
 An unavoidable stochastic gravitational wave (GW) background is from Graviton Bremsstrahlung during inflationary reheating [2301.11345](https://arxiv.org/abs/2301.11345). The idea is very simple:
 
