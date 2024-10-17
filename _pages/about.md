@@ -38,9 +38,7 @@ Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Dec
 
  <!-- <img src="/images/UHGW.png" alt="Editing a markdown file for a talk" width="800" height="400"> -->
 
-
-* My second "first author" paper [2407.03256](https://arxiv.org/abs/2407.03256)  
-* I systematically investigated the  ultra-high frequency GWs from gravitons generated during inflationary reheating. The processes under consideration include: $$(i)$$ $$1 \to 3$$ graviton Bremsstrahlung, $$(ii)$$ $$2 \to 2$$ scattering of the inflaton and its decay products, $$(iii)$$ pure inflaton $$2 \to 2$$ scattering, and $$(iv)$$ one-loop induced inflaton decay.
+* In 2407.03256](https://arxiv.org/abs/2407.03256), I systematically investigated the  ultra-high frequency GWs from gravitons generated during inflationary reheating. The processes under consideration include: $$(i)$$ $$1 \to 3$$ graviton Bremsstrahlung, $$(ii)$$ $$2 \to 2$$ scattering of the inflaton and its decay products, $$(iii)$$ pure inflaton $$2 \to 2$$ scattering, and $$(iv)$$ one-loop induced inflaton decay.
 * After a comprehensive comparison among the four sources of GWs, I identified the conditions under which dominant sources emerge.
 
 <img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="370" height="370" ><img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="370" height="350" >
