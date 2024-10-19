@@ -152,7 +152,8 @@ A spinning black hole can effectively transmit energy to its surroundings throug
 Primordial Black Hole Formation 
 --
 * Is it possible to have PBH formation within the SM framework?
-* Yes, but we need to fine-tune the top-quark mass and make the Higgs potential flat 
+* Yes. But we would need to fine-tune the top-quark mass to make the Higgs potential flat in the relevant region $$\sim 10^{17 -18}~\text{GeV}$$.
+* If this occurs, it would lead to testable gravitational wave signatures that could be detected by DECIGO and BBO [1905.13581](https://arxiv.org/abs/1905.13581)
   
 <!-- Questions I always ask myslef
 ======
