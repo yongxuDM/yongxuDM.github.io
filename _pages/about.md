@@ -128,7 +128,14 @@ Resonant Reheating
 <img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="730" height="700">
 
    
-Black Hole Superradiance and Dark Matter
+Dark Matter Production in the Early Universe
+--
+
+
+Cosmic Inflation 
+--
+
+Black Hole Superradiance and Dark Sector
 --
 
 A spinning black hole can effectively transmit energy to its surroundings through superradiance. When the Compton wavelength $$\lambda_C =1/m  $$ of a particle matches the gravitational radius $$r_g = G M_{\mathrm{BH}} $$ of a black hole, the occupation number of the particles can undergo exponential amplification, resulting in the creation of "gravitational atoms" around the black hole. Superradiance condition: $$\frac{r_g}{\lambda_C}=G M_{\mathrm{BH}} \, m \simeq 0.38\left(\frac{M_{\mathrm{BH}}}{10^7 \mathrm{~g}}\right)\left(\frac{m}{10^7 \mathrm{GeV}}\right) \sim \mathcal{O}(1)$$. This implies interesting phenomenology between:
@@ -137,7 +144,7 @@ A spinning black hole can effectively transmit energy to its surroundings throug
   
 * (Super) Heavy BH and (Ultra) Light DM 🐣
 
-
+  
 <!-- Questions I always ask myslef
 ======
 Which (big) problems I wish to attack if I settle down and have enough time? I wish I could have a list soon.
