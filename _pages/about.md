@@ -138,7 +138,7 @@ Cosmic Inflation
 --
 * Most simple chaotic inflation model $$V(\phi) \sim \phi^p $$ with $$ p>1/2$$ has been ruled out by recent CMB experiments
 * A simple and straightforward extension is a polynomial inflation model with a potential $$V(\phi) = a \phi^2 + b \phi^3 +d  \phi^4  $$, which provides a good fit to the CMB data.
-* 
+<img src="/images/Polynomial_Inflation_BK18.png" alt="Editing a markdown file for a talk" width="800" height="400"> 
 
 Black Hole Superradiance and Dark Sector
 --
