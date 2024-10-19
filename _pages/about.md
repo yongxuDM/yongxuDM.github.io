@@ -116,9 +116,6 @@ The idea is very simple:
     * $$H \ell N$$  for neutrio mass via Type-I see-saw
 
   
-
-
-
 Resonant Reheating
 --
  * Tradiational reheating via inflaton contact interaction such as  $$ \phi h^2 $$,  $$ \phi^2 h^2 $$
@@ -157,17 +154,5 @@ As a poor man, I am always trying to optimize the metric by learining from other
 * A PhD Is Not Enough by Peter J. Feibelman (useful for practical purpose)
 -->
 
-<!-- ![Editing a markdown file for a talk](/images/ALP.png)-->
-
-<!-- Black Hole Superradiance -->
-
-<!-- Dark Matter -->
-
-<!-- Baryogenesis-->
-
-<!--Cosmic Inflation -->
-
-<!--The Physics of Reheating-->
-<!-- Problems and questions i wish to attack when I am settled-->
 
 
