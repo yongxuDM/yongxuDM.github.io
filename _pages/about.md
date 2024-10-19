@@ -132,7 +132,7 @@ Dark Matter Production in the Early Universe
 --
 * Dark Matter can be produced both non-thermally and thermally in the early Universe
 <img src="/images/DM_Production.png" alt="Editing a markdown file for a talk" width="800" height="400">
-*Take all possible production channels into account can lead to interesting interplay among different channels, modifying the parameter space.
+*Take all possible production channels into account can lead to interesting interplay among different channels, modifying the parameter space [2406.19447](https://arxiv.org/abs/2406.19447) 
 
 Cosmic Inflation 
 --
