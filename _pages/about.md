@@ -130,6 +130,7 @@ Resonant Reheating
    
 Dark Matter Production in the Early Universe
 --
+* Dark Matter can be produced both non-thermally and thermally in the early Universe
 <img src="/images/DM_Production.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
 Cosmic Inflation 
