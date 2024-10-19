@@ -132,10 +132,12 @@ Dark Matter Production in the Early Universe
 --
 * Dark Matter can be produced both non-thermally and thermally in the early Universe.
 <img src="/images/DM_Production.png" alt="Editing a markdown file for a talk" width="800" height="400">
-*Considering all possible production channels can reveal interesting interplay between them, potentially altering the parameter space[2406.19447](https://arxiv.org/abs/2406.19447) 
+*Considering all possible production channels can reveal interesting interplay between them, potentially altering the parameter space [2406.19447](https://arxiv.org/abs/2406.19447) 
 
 Cosmic Inflation 
 --
+* Most simple chaotic inflation model $$V(\phi) \sim \phi^p $$ with $$ p>1/2$$ has been ruled out by recent CMB experiments
+* A  next simple model is polynomial inflation with a form inflation model $$V(\phi) = a \phi^2 + b \phi^3 +d  \phi^4  $$, which can fit the CMB data well
 
 Black Hole Superradiance and Dark Sector
 --
