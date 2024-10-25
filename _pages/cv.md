@@ -46,6 +46,8 @@ Skills
 
 Seminar and Conference
 ======
+* [Astroparticle Symposium 2024](ttps://indico.ijclab.in2p3.fr/event/10663/timetable/#20241111) (Paris, 25-19 Nov. 2024)
+      
 * [DESY Theory Workshop 2024](https://indico.desy.de/event/43923/overview) (Hamburg, 25 Sep. 2024)
     * Talk: Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating  [Slides](https://indico.desy.de/event/43923/contributions/173179/attachments/92699/125591/DESY_XU.pdf)
 * [The 3rd International Workshop on BSM Frontiers: Where to Next?](https://indico-tdli.sjtu.edu.cn/event/2379/) (Beihang U,  August 19, 2024)
