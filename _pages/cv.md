@@ -182,7 +182,7 @@ Service and leadership
 ======
 * Referee for [JCAP](https://iopscience.iop.org/journal/1475-7516), [JHEP](https://link.springer.com/journal/13130)
 * Mainz [Theorie-Palaver](https://www.thep.physik.uni-mainz.de/theorie-palaver/) organizer
-* [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/) Group Journal Club  organizer
+
 
 Conference organization
 ======
