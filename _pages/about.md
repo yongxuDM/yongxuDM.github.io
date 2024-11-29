@@ -134,6 +134,10 @@ Dark Matter Production in the Early Universe
 <img src="/images/DM_Production.png" alt="Editing a markdown file for a talk" width="800" height="400">
 * Considering all possible production channels can reveal interesting interplay between them, potentially altering the parameter space [2406.19447](https://arxiv.org/abs/2406.19447) 
 
+
+Cosmology of Modular Invariance 
+--
+
 Cosmic Inflation 
 --
 * Most simple chaotic inflation model $$V(\phi) \sim \phi^p $$ with $$ p>1/2$$ has been ruled out by recent CMB experiments.
