@@ -117,7 +117,7 @@ The idea is very simple:
 Modular Symmetry and Cosmology
 --
 * Modular symmetry offers nice explanations for the flavor puzzle, neutrino masses and mixings in the standard model, where the Yukawa couplings are treated as modular forms. Modular forms, which are  holomorphic functions of the complex modulus $$\tau$$, of a specific level (e.g., $$\Gamma_3$$) have a fixed structure that can reproduce observed lepton mass and mixing patterns.
-*
+* The modular field $$\tau$$ could drive the exponential expansion in the early Universe. After inflation, energy can be transferred from $$\tau$$ to the standard model during reheating process. 
   
 Resonant Reheating
 --
