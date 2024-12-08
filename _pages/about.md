@@ -124,6 +124,7 @@ Modular Symmetry and Cosmology
   * Light neutrino masses are generated via the Type-I see-saw mechanism.
   * Inflation is driven by the angular component of the modular field, $$\tau$$, evolving along the arc of the fundamental domain.
   * Reheating of Universe after inflation proceeds via $$\tau$$ decays into right handed neutrinos, Higgs and leptons.
+  * Baryon asymmetry of the universe (BAU) could be explained from Barygenesis via leptogenesis
   <img src="/images/BAU_Modular.png" alt="Editing a markdown file for a talk" width="800" height="400">
   
 Resonant Reheating
