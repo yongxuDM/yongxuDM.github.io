@@ -100,9 +100,6 @@ Probing Reheating with Bremsstrahlung GW
 
 <!-- <img src="/images/YX_hc_VFS.png" alt="Editing a markdown file for a talk" width="450" height="500"> -->
 
-Modular Symmetry and Cosmology
---
-
 Letogenesis from 3-body Decay
 --
 We recently found a novel  channel for non-thermal   leptogenesis via inflaton 3-body decay [2401.02485](https://arxiv.org/abs/2401.02485).
@@ -116,7 +113,11 @@ The idea is very simple:
 * The only assumptions:
     * $$\phi H^{\dagger} H$$ for reheating
     * $$H \ell N$$  for neutrio mass via Type-I see-saw
-
+      
+Modular Symmetry and Cosmology
+--
+* Modular symmetry offers nice explanations for the flavor puzzle, neutrino masses and mixings in the standard model, where the Yukawa couplings are treated as modular forms. Modular forms, which are  holomorphic functions of the complex modulus $$\tau$$, of a specific level (e.g., $$\Gamma_3$$) have a fixed structure that can reproduce observed lepton mass and mixing patterns.
+*
   
 Resonant Reheating
 --
