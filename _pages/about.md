@@ -26,6 +26,7 @@ Recent Research Interests
 * Phenomenology of Black Hole Superradiance, Hawking Radiation and Dark Sector
 * Inflation and Its aftermath: Physics of (p)reheating, DM production and Mechanism of Baryogenesis
 * Axion Cosmology
+* Modular Symmetry and Its application
 * Cosmological perturbations, Primordial Black Hole formation and Induced Gravitational Wave Signatures
 
   
