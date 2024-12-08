@@ -123,6 +123,7 @@ Modular Symmetry and Cosmology
   * All lepton masses and mixings can be explained.
   * Light neutrino masses are generated via the Type-I see-saw mechanism.
   * Inflation is driven by the angular component of the modular field, $$\tau$$, evolving along the arc of the fundamental domain.
+  * Reheating of Universe after inflation proceeds via $$\tau$$ decays into right handed neutrinos, Higgs and leptons.
   
 Resonant Reheating
 --
