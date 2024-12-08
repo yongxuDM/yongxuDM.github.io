@@ -152,7 +152,7 @@ Cosmic Inflation
 * A simple and straightforward extension is a polynomial inflation model with a potential $$V(\phi) = a \phi^2 + b \phi^3 +d  \phi^4  $$, which provides a good fit to the CMB data. It also predicts testable running of specal index and tensor-to-scalar ratio. See [2209.07545](https://arxiv.org/abs/2209.07545) for analysis in large field regime and  [2104.03977](https://arxiv.org/abs/2104.03977) for analysis in small field scenario.
 <img src="/images/Polynomial_Inflation_BK18.png" alt="Editing a markdown file for a talk" width="800" height="400"> 
 
-Black Hole Superradiance and Dark Sector
+Black Hole Superradiance, Dark Sector and GWs
 --
 
 A spinning black hole can effectively transmit energy to its surroundings through superradiance. When the Compton wavelength $$\lambda_C =1/m  $$ of a particle matches the gravitational radius $$r_g = G M_{\mathrm{BH}} $$ of a black hole, the occupation number of the particles can undergo exponential amplification, resulting in the creation of "gravitational atoms" around the black hole. Superradiance condition: $$\frac{r_g}{\lambda_C}=G M_{\mathrm{BH}} \, m \simeq 0.38\left(\frac{M_{\mathrm{BH}}}{10^7 \mathrm{~g}}\right)\left(\frac{m}{10^7 \mathrm{GeV}}\right) \sim \mathcal{O}(1)$$. This implies interesting phenomenology between:
