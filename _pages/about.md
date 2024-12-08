@@ -23,7 +23,7 @@ Recent Research Interests
 ======
 * Gravitational Wave from Graviton Production in the Early Universe
 * Multimessenger Probe of Physics before BBN
-* Phenomenology of Black Hole Superradiance, Hawking Radiation and Dark Sector
+* Black Hole as Laboratories to New Physics: Hawking Radiation, Superradiance, and Gravitational Atoms
 * Inflation and Its aftermath: Physics of (p)reheating, DM production and Mechanism of Baryogenesis
 * Modular Symmetry and Its application
 * Axion Cosmology
