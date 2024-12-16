@@ -133,7 +133,7 @@ Seminar and Conference
 -->
   
 
-Teaching
+Lecturing
 ======
 * Winter Term 2023/24
   * Teaching (1 week): Physics of CMB and Basis of Baryogenesis
@@ -142,7 +142,9 @@ Teaching
 * Summer Term 2023
     * Teaching (1.5 week): Kinetic Decoupling  and Sommerfeld Effect in Dark Matter Physics
     * Theoretical Astroparticle Physics, [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
-
+      
+Touring
+======
 * Summer Term 2021
     * Chief Tutor
     * Advanced Theoretical Particle Physics, [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
