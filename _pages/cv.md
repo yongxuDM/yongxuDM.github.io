@@ -140,7 +140,7 @@ Teaching
   * Advanced Cosmology, [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
 
 * Summer Term 2023
-    * Teaching (1.5 week): Kinematic Decoupling  and Sommerfeld Effect in Dark Matter Physics
+    * Teaching (1.5 week): Kinetic Decoupling  and Sommerfeld Effect in Dark Matter Physics
     * Theoretical Astroparticle Physics, [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
 
 * Summer Term 2021
