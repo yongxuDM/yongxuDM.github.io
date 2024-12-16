@@ -142,6 +142,11 @@ Lecturing
 * Summer Term 2023
     * Teaching (4 hour): Kinetic Decoupling  and Sommerfeld Effect in Dark Matter Physics
     * Two chapters of Early Universe course by [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
+ 
+* Summer Term 2019
+  * Teaching (3 hour): QFT in curved spacetime
+  * One chapter of Theoretical Astro-particle Physics course by [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
+
       
 Touring
 ======
@@ -167,7 +172,6 @@ Touring
 
 * Summer Term 2019
   * Tutor
-  * Teaching (1 week) on QFT in curved spacetime
   * Theoretical Astro-particle Physics, [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
 
 * Winter Term 2018/19
