@@ -136,12 +136,12 @@ Seminar and Conference
 Lecturing
 ======
 * Winter Term 2023/24
-  * Teaching (3 hour): Physics of CMB and Basis of Baryogenesis, JGU Mainz
-  * Two chapters of Advanced Cosmology, [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/)
+  * Teaching (3 hour): Physics of CMB and Basis of Baryogenesis
+  * Two chapters of Advanced Cosmology course by [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
 
 * Summer Term 2023
     * Teaching (4 hour): Kinetic Decoupling  and Sommerfeld Effect in Dark Matter Physics
-    * Theoretical Astroparticle Physics, [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
+    * Two chapters of Early Universe course by [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
       
 Touring
 ======
