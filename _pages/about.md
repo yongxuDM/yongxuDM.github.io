@@ -23,6 +23,7 @@ Recent Research Interests
 ======
 * Gravitational Wave from Graviton Production in the Early Universe
 * Multimessenger Probe of Physics before BBN
+* Probing the Nature of Dark Matter with Gravitational Waves
 * Black Hole as Laboratories to New Physics: Hawking Radiation, Superradiance, and Gravitational Atoms
 * Inflation and Its aftermath: Physics of (p)reheating, DM production and Mechanism of Baryogenesis
 * Modular Symmetry and Its application
@@ -34,6 +35,13 @@ Recent Research Interests
 🌟 Research Highlight 🌟
 ===========================
 
+Probing Gravitational Dark Matter with Gravitational Waves
+---
+* Pure Gravitational Dark Matter (PGDM) is the most minimal DM scenario, but would be very  challenging for detection.
+* PGDM can be unavoidably generated in the early Universe via annihilation of particles in the SM plasma, where the latter also emits GWs.
+* Such unavoidable cogenesis and tight connection imply that the GWs can help to probe the spin and mass of PGDM
+
+  
 Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating
 ---
 
