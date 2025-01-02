@@ -42,7 +42,7 @@ Probing Gravitational Dark Matter with Gravitational Waves
 
 <img src="/images/DMGW.png" alt="Editing a markdown file for a talk" width="800" height="400">
   
-* Such unavoidable cogenesis and tight connection imply that the GWs can help to probe the spin and mass of PGDM
+* Such unavoidable cogenesis and tight connection imply that the GWs can help to probe the spin $$s$$  and mass $$m_{\text{DM}}$$ of PGDM
 
 <img src="/images/GWDM_Probe.png" alt="Editing a markdown file for a talk" width="800" height="400">
   
