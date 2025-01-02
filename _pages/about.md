@@ -40,7 +40,7 @@ Probing Gravitational Dark Matter with Gravitational Waves
 * Pure Gravitational Dark Matter (PGDM) is the most minimal DM scenario, but would be very  challenging for detection.
 * PGDM can be unavoidably generated in the early Universe via annihilation of particles in the SM plasma, where the latter also emits GWs.
 
-<img src="/images/DMGW.png" alt="Editing a markdown file for a talk" width="400" height="300">
+<img src="/images/DMGW.png" alt="Editing a markdown file for a talk" width="180" height="200">
   
 * Such unavoidable cogenesis and tight connection imply that the GWs can help to probe the spin $$s$$  and mass $$m_{\text{DM}}$$ of PGDM
 
