@@ -150,7 +150,7 @@ Lecturing
   * One chapter of Theoretical Astro-particle Physics course by [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
 
       
-Touring
+Teaching Assistant
 ======
 * Summer Term 2021
     * Chief Tutor
@@ -188,13 +188,13 @@ Touring
   * Tutor
   * Advanced Quantum Theory,   [Prof. J. Kroha](https://www.pi.uni-bonn.de/kroha/en), University of Bonn
  
-Service and leadership
+Service and Leadership
 ======
 * Referee for [JCAP](https://iopscience.iop.org/journal/1475-7516), [JHEP](https://link.springer.com/journal/13130)
 * Mainz [Theorie-Palaver](https://www.thep.physik.uni-mainz.de/theorie-palaver/) organizer
 
 
-Conference organization
+Conference Organization
 ======
 * [MITP Scientific Program: From the Cosmos to the Lab: Novel Links and Strategies (September 8 - 19, 2025)](https://indico.mitp.uni-mainz.de/event/411/)
 * Registration is open and will close on 11 June 2025.
