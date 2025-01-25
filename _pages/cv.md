@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* Dec 2022 - present : Postdoc Researcher, JGU Mainz
+* Dec 2022 - present : Research Associate, JGU Mainz
   <!-- * Duties includes: Updates and improvements to template -->
   <!-- * Supervisor: The Users -->
 
