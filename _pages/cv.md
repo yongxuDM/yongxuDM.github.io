@@ -60,7 +60,7 @@ Seminar and Conference
     * **Invited Talk**: Probing Reheating with Graviton Bremsstrahlung
 * [MIAPbP workshop: QUANTUM ASPECTS OF INFLATIONARY COSMOLOGY](https://www.munich-iapbp.de/cosmology-quantum-aspects) (Munich,  July 2024)
     * **Invited Talk**: GWs from Scattering, Bremsstrahlung, and Decay
-    * 🌟 One hour blackboard presentation (without looking at any material) 🌟  
+    * 🌟 One hour blackboard presentation 🌟  
 
 * [Planck 2024](https://indico.cern.ch/event/1323379/) (Lisbon,  June 2024)
    * Talk: Probing Reheating with Graviton Bremsstrahlung
