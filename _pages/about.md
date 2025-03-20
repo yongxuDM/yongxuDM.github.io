@@ -19,7 +19,7 @@ My name is XU (徐) Yong (勇). I grew up in Xinyang, Henan, China. 🗣️ My m
 My research focuses on the intersection of particle physics and cosmology. Motivated by curiosity and experimental advancements, I am particularly interested in investigating the physics from inflation to Big Bang Nucleosynthesis (BBN), concentrating on both theoretical developments and experimental implications. Here is my 
 [Inspire Page](https://inspirehep.net/authors/1737900?ui-citation-summary=true). 
 
-🌟 Good News: I will join McGill University with a Trottier Space Institute Postdoctoral Fellowship this fall!🌟
+🌟 Great news: I will be joining McGill University this fall with a Trottier Space Institute Postdoctoral Fellowship! 🌟
 
 Recent Research Interests
 ======
