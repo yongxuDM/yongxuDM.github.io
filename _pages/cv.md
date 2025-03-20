@@ -29,7 +29,7 @@ Work experience
   <!-- * Duties included: Merging pull requests  -->
   <!-- * Supervisor: Professor Hub -->
   
-* Nov 2017 - 2018 Oct: Teaching  Assistant, Bonn University 
+* Nov 2017 - 2018 Oct: Teaching  Assistant, [Physikalisches Institut](https://www.pi.uni-bonn.de/de), Bonn University 
 
 
   <!-- * Summer 2015: Research Assistant -->
