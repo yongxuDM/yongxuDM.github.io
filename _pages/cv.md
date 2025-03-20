@@ -21,11 +21,11 @@ Education
 
 Work experience
 ======
-* Dec 2022 - present : Research Associate, JGU Mainz
+* Dec 2022 - present : Research Associate, [Mainz Institute for Theoretical Physics (MITP)](https://www.mitp.uni-mainz.de/), JGU Mainz
   <!-- * Duties includes: Updates and improvements to template -->
   <!-- * Supervisor: The Users -->
 
-* Nov 2018 - Oct 2022: Research Assistant, Bonn University 
+* Nov 2018 - Oct 2022: Research Assistant, [Bethe Center for Theoretical Physics (BCTP)](https://www.bctp.uni-bonn.de/), Bonn University 
   <!-- * Duties included: Merging pull requests  -->
   <!-- * Supervisor: Professor Hub -->
   
