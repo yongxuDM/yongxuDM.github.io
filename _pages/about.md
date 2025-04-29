@@ -42,6 +42,8 @@ Refined Predictions for Starobinsky Inflation
 * Starobinsky model invented in 1980 is a very simple yet predictive scenario.
 * We recently found a simple and more precise approximation for the inflationary predictions
 
+  <img src="/images/refined_Starobinsky.png" alt="Editing a markdown file for a talk" width="600" height="300">
+
 Probing Gravitational Dark Matter with Gravitational Waves
 ---
 * Pure Gravitational Dark Matter (PGDM) is the most minimal DM scenario, but would be very  challenging for detection.
