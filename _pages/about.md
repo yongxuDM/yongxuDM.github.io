@@ -39,6 +39,8 @@ Recent Research Interests
 
 Refined Predictions for Starobinsky Inflation
 ---
+* Starobinsky model invented in 1980 is a very simple yet predictive scenario.
+* We recently found a simple and more precise approximation for the inflationary predictions
 
 Probing Gravitational Dark Matter with Gravitational Waves
 ---
