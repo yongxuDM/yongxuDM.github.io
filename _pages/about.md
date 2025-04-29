@@ -41,7 +41,7 @@ Refined Predictions for Starobinsky Inflation
 ---
 * The Starobinsky model, proposed in 1980, is a remarkably simple and predictive inflationary scenario.
 
-We recently derived simple yet more accurate analytical approximations for the inflationary predictions, particularly for the spectral index \( n_s \), given by  
+* We recently derived simple yet more accurate analytical approximations for the inflationary predictions, particularly for the spectral index \( n_s \), given by  
 $$
 n_s \simeq 1 - \frac{2}{N_\star - \frac{3}{4} \ln (2/N_\star)}, \quad \text{and} \quad r \simeq \frac{12}{\left[N_\star - \frac{3}{4} \ln (2/N_\star)\right]^2}.
 $$
@@ -51,8 +51,10 @@ n_s \simeq 1 - \frac{2}{N_\star}, \quad \text{and} \quad r \simeq \frac{12}{N_\s
 $$ 
 in the appropriate limit. However, the standard approximations tend to underestimate the prediction for $$ n_s $$, potentially leading to misleading conclusions when comparing with precision observational data.
 
+*We adovare the use of the refined approximations!
 
-<img src="/images/refined_Starobinsky.PNG" alt="Editing a markdown file for a talk" width="400" height="200">
+
+<img src="/images/refined_Starobinsky.PNG" alt="Editing a markdown file for a talk" width="500" height="300">
 
 Probing Gravitational Dark Matter with Gravitational Waves
 ---
