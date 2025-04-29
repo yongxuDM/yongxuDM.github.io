@@ -41,7 +41,7 @@ Refined Predictions for Starobinsky Inflation
 ---
 * Starobinsky model invented in 1980 is a very simple yet predictive scenario.
 * We recently found a simple and more precise approximation for the inflationary predictions
-  $$ n_s \simeq 1- \frac{2}{N -\ln (N/2)}$$
+  $$ n_s \simeq 1- \frac{2}{N -\frac{2}{4}\ln (2/N)}$$
 
 <img src="/images/refined_Starobinsky.png" alt="Editing a markdown file for a talk" width="600" height="300">
 
