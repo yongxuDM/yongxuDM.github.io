@@ -39,9 +39,18 @@ Recent Research Interests
 
 Refined Predictions for Starobinsky Inflation
 ---
-* Starobinsky model invented in 1980 is a very simple and predictive scenario.
-* We recently found simple yet more precise approximations (in particular for $$n_s$$) than commonly used  for the inflationary predictions $$ n_s \simeq 1- \frac{2}{N_\star -\frac{3}{4}\ln (2/N_\star)}$$, and $$r \simeq  \frac{12}{\left[N_\star -\frac{3}{4}\ln (2/N_\star)\right]^2}$$
-* The new approximations can reproduce the commonly used expressions in literature $$ n_s \simeq 1- \frac{2}{N_\star }$$, and $$r \simeq  \frac{12}{N_\star^2}$$. Note that commonly used approximations underestimate the predictions for $$n_s$$, and can lead to misleading conclusion if confronting with experimental data.
+* The Starobinsky model, proposed in 1980, is a remarkably simple and predictive inflationary scenario.
+
+We recently derived simple yet more accurate analytical approximations for the inflationary predictions, particularly for the spectral index \( n_s \), given by  
+\[
+n_s \simeq 1 - \frac{2}{N_\star - \frac{3}{4} \ln (2/N_\star)}, \quad \text{and} \quad r \simeq \frac{12}{\left[N_\star - \frac{3}{4} \ln (2/N_\star)\right]^2}.
+\]  
+These expressions recover the commonly used approximations in the literature,  
+\[
+n_s \simeq 1 - \frac{2}{N_\star}, \quad \text{and} \quad r \simeq \frac{12}{N_\star^2},
+\]  
+in the appropriate limit. However, the standard approximations tend to underestimate the prediction for \( n_s \), potentially leading to misleading conclusions when comparing with precision observational data.
+
 
 <img src="/images/refined_Starobinsky.PNG" alt="Editing a markdown file for a talk" width="400" height="200">
 
