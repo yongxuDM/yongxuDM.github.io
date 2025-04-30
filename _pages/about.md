@@ -171,7 +171,7 @@ Refined Predictions for Starobinsky Inflation
 ---
 * The Starobinsky model, proposed in 1980, is a remarkably simple and predictive inflationary scenario.
 
-* We recently derived simple yet more accurate analytical approximations for the inflationary predictions, particularly for the spectral index $$ n_s $$, given by  
+* We recently derived simple yet more accurate analytical approximations for the inflationary predictions, particularly for the spectral index $$ n_s $$, given by [2504.20757](https://arxiv.org/abs/2504.20757) 
 $$ n_s \simeq 1 - \frac{2}{N_\star - \frac{3}{4} \ln (2/N_\star)}$$, $$ r \simeq \frac{12}{\left[N_\star - \frac{3}{4} \ln (2/N_\star)\right]^2} $$.
 
 * These refined approximations can reproduce the commonly used expression in the literature, $$ n_s \simeq 1 - \frac{2}{N_\star} $$, $$ r \simeq \frac{12}{N_\star^2} $$, in the lagre $$ N_\star $$ limit. However, the commonly used approximations tend to underestimate the prediction for $$ n_s $$, potentially leading to misleading conclusions when comparing with precision observational data.
