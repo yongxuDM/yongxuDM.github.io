@@ -181,7 +181,7 @@ $$ n_s \simeq 1 - \frac{2}{N_\star - \frac{3}{4} \ln (2/N_\star)}$$, $$ r \simeq
 
 <! -- <img src="/images/refined_Starobinsky.PNG" alt="Editing a markdown file for a talk" width="800" height="400"> -->
 
-<img src="/images/Starobinsky_ACT.PNG" alt="Editing a markdown file for a talk" width="800" height="400"> 
+<img src="/images/approximation.PNG" alt="Editing a markdown file for a talk" width="800" height="400"> 
 
 Black Hole Superradiance, Dark Sector and GWs
 --
