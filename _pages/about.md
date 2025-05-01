@@ -57,7 +57,8 @@ Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Dec
 * A meaningful step toward establishing a more precise framework for identifying and analyzing the key sources of high frequency GWs in the early universe.
 <img src="/images/UHGW.png" alt="Editing a markdown file for a talk" width="600" height="300">
 
-<img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="370" height="370" ><img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="370" height="350" >
+<img src="/images/4sources_1.png" alt="Editing a markdown file for a talk" width="370" height="370" >
+ <!-- <img src="/images/4sources.png" alt="Editing a markdown file for a talk" width="370" height="350" > --><<<<<
 
 Probing Reheating With Axion Experiments
 --
