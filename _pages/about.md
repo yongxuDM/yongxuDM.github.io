@@ -179,7 +179,9 @@ $$ n_s \simeq 1 - \frac{2}{N_\star - \frac{3}{4} \ln (2/N_\star)}$$, $$ r \simeq
 
 * These refined approximations can reproduce the commonly used expression in the literature, $$ n_s \simeq 1 - \frac{2}{N_\star} $$, $$ r \simeq \frac{12}{N_\star^2} $$, in the lagre $$ N_\star $$ limit. However, the commonly used approximations tend to underestimate the prediction for $$ n_s $$, potentially leading to misleading conclusions when comparing with precision observational data.
 
-<img src="/images/refined_Starobinsky.PNG" alt="Editing a markdown file for a talk" width="800" height="400">
+<! -- <img src="/images/refined_Starobinsky.PNG" alt="Editing a markdown file for a talk" width="800" height="400"> -->
+
+<img src="/images/Starobinsky_ACT.PNG" alt="Editing a markdown file for a talk" width="800" height="400"> 
 
 Black Hole Superradiance, Dark Sector and GWs
 --
