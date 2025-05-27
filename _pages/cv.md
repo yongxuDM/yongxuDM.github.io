@@ -139,16 +139,19 @@ Seminar and Conference
 
 Lecturing
 ======
+* Summer Term  2025
+  *  Lecturing (1-hour): Superradiance: Theory and Applications, JGU Mainz
+    
 * Winter Term 2023/24
-  * Teaching (3 hour): Physics of CMB and Basis of Baryogenesis
+  * Lecturing (3 hour): Physics of CMB and Basis of Baryogenesis
   * Two chapters of Advanced Cosmology course by [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
 
 * Summer Term 2023
-    * Teaching (4 hour): Kinetic Decoupling  and Sommerfeld Effect in Dark Matter Physics
+    * Lecturing (4 hour): Kinetic Decoupling  and Sommerfeld Effect in Dark Matter Physics
     * Two chapters of Early Universe course by [Prof. J. Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/), JGU Mainz
  
 * Summer Term 2019
-  * Teaching (3 hour): QFT in curved spacetime
+  * Lecturing (3 hour): QFT in curved spacetime
   * One chapter of Theoretical Astro-particle Physics course by [Prof. M. Drees](http://www.th.physik.uni-bonn.de/Groups/drees/), University of Bonn
 
       
