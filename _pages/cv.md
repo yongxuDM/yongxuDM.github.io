@@ -48,6 +48,8 @@ Skills
 
 Seminar and Conference
 ======
+* [Bonn Theory Seminar](https://indico.hiskp.uni-bonn.de/event/1002/) (July 14, 2025)
+    * **Invited Talk**: Gravitational Waves from Reheating: Messengers of the Pre-BBN Universe 
 * [Oslo Theory Seminar](https://www.mn.uio.no/fysikk/english/research/groups/theory/theory-seminars/2025_Yong.html) (Jan. 10, 2025)
     * **Invited Talk**: Probing the Pre-BBN Universe with Gravitational Waves  
 * [Astroparticle Symposium 2024](https://indico.ijclab.in2p3.fr/event/10663/timetable/#20241111) (Paris, 25-29 Nov. 2024)
