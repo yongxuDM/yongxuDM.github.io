@@ -8,7 +8,8 @@ redirect_from:
 ---
 # 你好, Hello! 
 
-My name is XU (徐) Yong (勇). I grew up in Xinyang, Henan, China. 🗣️ My mother tongue is the Xinyang dialect. I navigate between  Mandarin and English, and possess a surviving-level proficiency in German. <!--Python 💻 is now my native  language, through which I can express myself well. --> I earned my PhD 🎓 from the [Universität Bonn](https://www.uni-bonn.de/en?set_language=en) in November 2022 and currently postdoc at [Johannes Gutenberg-Universität Mainz](https://www.uni-mainz.de/en/).
+My name is XU (徐) Yong (勇). I grew up in Xinyang, Henan, China. 🗣️ My mother tongue is the Xinyang dialect. I navigate between  Mandarin and English, and possess a surviving-level proficiency in German. <!--Python 💻 is now my native  language, through which I can express myself well. --> I earned my PhD 🎓 from the [Universität Bonn](https://www.uni-bonn.de/en?set_language=en) in October 2022 and currently postdoc at [McGill University](https://www.physics.mcgill.ca) and [Trottier Space Institute](https://tsi.mcgill.ca/)   
+<!--  [Johannes Gutenberg-Universität Mainz](https://www.uni-mainz.de/en/). -->
 <!-- Outside academia, I find peace in 🎣. -->
 <!--Join me on a journey where curiosity knows no bounds 🌌.-->
 
@@ -19,7 +20,7 @@ My name is XU (徐) Yong (勇). I grew up in Xinyang, Henan, China. 🗣️ My m
 My research focuses on the intersection of particle physics and cosmology. Motivated by curiosity and experimental advancements, I am particularly interested in investigating the physics from inflation to Big Bang Nucleosynthesis (BBN), concentrating on both theoretical developments and experimental implications. Here is my 
 [Inspire Page](https://inspirehep.net/authors/1737900?ui-citation-summary=true). 
 
-🌟 News 🌟: I will be joining [McGill University](https://www.physics.mcgill.ca/) this fall with a [Trottier Space Institute Fellowship](https://tsi.mcgill.ca/)! 
+<!--  🌟 News 🌟: I will be joining [McGill University](https://www.physics.mcgill.ca/) this fall with a [Trottier Space Institute Fellowship](https://tsi.mcgill.ca/)!  -->
 
 Recent Research Interests
 ======
