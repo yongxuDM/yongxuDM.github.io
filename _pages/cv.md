@@ -13,7 +13,8 @@ redirect_from:
 
 Work experience
 ======
-* Dec 2022 - present : Research Associate, [Mainz Institute for Theoretical Physics (MITP)](https://www.mitp.uni-mainz.de/), JGU Mainz 
+* Dec 2022 - Sep 2025 : Research Associate, [Mainz Institute for Theoretical Physics (MITP)](https://www.mitp.uni-mainz.de/), JGU Mainz
+* Oct 2025 - present  : TSI Postdoctal fellow, [Trottier Space Institute at McGill](https://tsi.mcgill.ca)
   <!-- * Duties includes: Updates and improvements to template -->
   <!-- * Supervisor: The Users -->
 
