@@ -13,7 +13,7 @@ redirect_from:
 
 Work experience
 ======
-* Oct 2025 - present  : TSI Postdoctoral Fellow, [Trottier Space Institute](https://tsi.mcgill.ca), McGill University
+* Oct 2025 - present  : TSI Postdoctoral Fellow, [Trottier Space Institute (TSI)](https://tsi.mcgill.ca), McGill University
 * Dec 2022 - Sep 2025 : Research Associate, [Mainz Institute for Theoretical Physics (MITP)](https://www.mitp.uni-mainz.de/), JGU Mainz
   <!-- * Duties includes: Updates and improvements to template -->
   <!-- * Supervisor: The Users -->
