@@ -216,7 +216,6 @@ Service and Leadership
 Conference Organization
 ======
 * [MITP Scientific Program: From the Cosmos to the Lab: Novel Links and Strategies (September 8 - 19, 2025)](https://indico.mitp.uni-mainz.de/event/411/)
-* Registration is open and will close on 11 June 2025.
 
 
 
