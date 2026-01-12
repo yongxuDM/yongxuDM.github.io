@@ -24,7 +24,7 @@ My research focuses on the intersection of particle physics and cosmology. Motiv
 
 Recent Research Interests
 ======
-* Gravitational Wave from Graviton Production in the Early Universe and Stars
+* Gravitational Wave from Graviton Production: from the Early Universe to Stars
 * Multimessenger Probe of Physics before BBN
 * Probing the Nature of Dark Matter with Gravitational Waves
 * Black Hole as Laboratories to New Physics: Hawking Radiation, Superradiance, and Gravitational Atoms
