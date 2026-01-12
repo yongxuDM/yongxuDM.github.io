@@ -208,6 +208,7 @@ Service and Leadership
   * [International Journal of Modern Physics A (IJMPA)](https://www.worldscientific.com/worldscinet/IJMPA?srsltid=AfmBOoo0IXtc2lalQasqLN400LnZAGsEICFxAS9ZNQmk_ri8OllxazEl)
   * [Nuclear Physics B (NPB)](https://www.sciencedirect.com/journal/nuclear-physics-b)
   * [The European Physical Journal C (EPJC)](https://link.springer.com/journal/10052)
+  * [Physical Review D (PRD)](https://journals.aps.org/prd/)
 * Mainz [Theorie-Palaver](https://www.thep.physik.uni-mainz.de/theorie-palaver/) organizer
   * Summer term 2024
   * Winter term 24/25
