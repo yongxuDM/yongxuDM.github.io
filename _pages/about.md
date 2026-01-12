@@ -204,16 +204,16 @@ Primordial Black Hole Formation
 Which (big) problems I wish to attack if I settle down and have enough time? I wish I could have a list soon.
 -->
 
-
+<!--
 Some Goodreads
 ======
-<!-- As a poor man, I am always trying to optimize the metric by learining from other people.
--->
+ As a poor man, I am always trying to optimize the metric by learining from other people.
+
 * A Guide to Research by Daniel Green
 * You and Your Research by Richard Hamming
 * Feynman's Rainbow by Leonard Mlodinow
 * A PhD Is Not Enough by Peter J. Feibelman (useful for practical purpose)
-
+-->
 
 
 
