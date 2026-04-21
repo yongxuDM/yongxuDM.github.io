@@ -40,12 +40,12 @@ Education
       
 <!-- * B.S. in physics, China Three Gorges University, 2012 -2016 -->
 
-Skills
-======
-* Programming
-  * Python, C/C++, Mathematica
-* Language
-  * Mandarin Chinese, English, German
+  <!--  Skills -->
+ <!-- ====== -->
+ <!-- * Programming
+ <!--  * Python, C/C++, Mathematica -->
+ <!--* Language -->
+ <!--  * Mandarin Chinese, English, German -->
 
 Seminar and Conference
 ======
