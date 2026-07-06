@@ -18,7 +18,9 @@ My name is XU (徐) Yong (勇). I grew up in Xinyang, Henan, China. 🗣️ My m
 <!--  [Inspire Page](https://inspirehep.net/authors/1737900?ui-citation-summary=true)-->
 
 <!--My research focuses on the intersection of particle physics and cosmology. Motivated by curiosity and experimental advancements, I am particularly interested in investigating the physics from inflation to Big Bang Nucleosynthesis (BBN), concentrating on both theoretical developments and experimental implications.-->
-I work on theoretical particle cosmology at the interface of quantum field theory and early-Universe dynamics, with a focus  on predictive frameworks to probe the microphysics of the pre-BBN Universe through gravitational waves, dark matter, and precision cosmological observables. Here is my 
+I work in theoretical particle cosmology, connecting quantum field theory with the dynamics of the early Universe. My research develops predictive frameworks to uncover the microphysics of the pre-BBN epoch through gravitational waves, dark matter, and precision cosmological observables.
+
+Here is my 
 [Inspire Page](https://inspirehep.net/authors/1737900?ui-citation-summary=true). 
 
 <!--  🌟 News 🌟: I will be joining [McGill University](https://www.physics.mcgill.ca/) this fall with a [Trottier Space Institute Fellowship](https://tsi.mcgill.ca/)!  -->
