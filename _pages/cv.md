@@ -50,7 +50,7 @@ Education
 Seminar and Conference
 ======
 * [McDonald Institute Seminar](https://mcdonaldinstitute.ca/events/type/mcdonald-institute-seminar-series/) (September 10, 2026)
-    * **Invited Talk**:  Weakly Coupled Messengers of Reheating; [Recorded at Youtube](https://www.youtube.com/@mcdonaldinstitute/streams)
+    * **Invited Talk**:  Weakly Coupled Messengers of Reheating; [Youtube](https://www.youtube.com/@mcdonaldinstitute/streams)
 * [Bonn Theory Seminar](https://indico.hiskp.uni-bonn.de/event/1002/) (July 14, 2025)
     * **Invited Talk**: Gravitational Waves from Reheating: Messengers of the Pre-BBN Universe
 * [TDLI  Theory Seminar](https://indico-tdli.sjtu.edu.cn/event/4248/) (June 26, 2025)
