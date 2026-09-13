@@ -40,7 +40,7 @@ Recent Research Interests
 🌟 Research Highlight 🌟
 ===========================
 
-Soft Graviton Theorem: from Amplitude to Gravitational Wave
+Soft Graviton Theorem: from Amplitudes to Gravitational Waves
 ---
 
 
