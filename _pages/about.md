@@ -44,7 +44,7 @@ Recent Research Interests
 Soft Graviton Theorem: from Amplitude to Gravitational Waves
 ---
 
-Graviton Production: Bogoliubov or Boltzmann?
+Graviton Production: Boltzmann or Bogoliubov?
 ---
 
 Probing Inflationary Reheating with X-ray Experiment
