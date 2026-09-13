@@ -50,6 +50,8 @@ Graviton Production: Boltzmann or Bogoliubov?
 Saving Sterile Neutrino as Dark Matter with Reheating
 ---
 
+<img src="/images/Xray.png" alt="Editing a markdown file for a talk" width="600" height="300">
+
 Probing Gravitational Dark Matter with Gravitational Waves
 ---
 * Pure Gravitational Dark Matter (PGDM) is the most minimal DM scenario, but would be very  challenging for detection.
