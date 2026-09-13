@@ -41,6 +41,12 @@ Recent Research Interests
 🌟 Research Highlight 🌟
 ===========================
 
+Soft Graviton Theorem and Gravitational Waves
+---
+
+Probing Inflationary Reheating with X-ray Experiment
+---
+
 Probing Gravitational Dark Matter with Gravitational Waves
 ---
 * Pure Gravitational Dark Matter (PGDM) is the most minimal DM scenario, but would be very  challenging for detection.
