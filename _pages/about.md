@@ -90,7 +90,7 @@ Probing Gravitational Dark Matter with Gravitational Waves
 <img src="/images/GWDM_Probe.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
 
- <!-- 
+<!-- 
 Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating
 ---
 
