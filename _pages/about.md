@@ -42,7 +42,8 @@ Recent Research Interests
 
 Soft Graviton Theorem: from Amplitudes to Gravitational Waves
 ---
-* In [2605.16201](https://arxiv.org/abs/2605.16201), we promoted the soft graviton theorem by Weinberg to from scattering amplitude  level to cosmological level, and predicted the maximum GW amplitude from reheating
+* In [2605.16201](https://arxiv.org/abs/2605.16201), we promoted the soft graviton theorem by Weinberg to from scattering amplitude  level to cosmological level.
+* We predicted the a maximum GW amplitude from reheating
 
   $$  \Omega^{\rm floor}_{\rm GW} h^2
   \lesssim
