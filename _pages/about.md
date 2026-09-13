@@ -49,7 +49,8 @@ Soft Graviton Theorem: from Amplitudes to Gravitational Waves
   \mathcal{O}(10^{-17})
   \left( \frac{\mathcal{P}}{2.1 \times 10^{-9}}\right)
   \left( \frac{r}{0.01} \right), $$
-where  $\mathcal P $  denotes the scalar power spectrum amplitude, and $r$ is the tensor-to-scalar ratio.
+
+  where $\mathcal P $  denotes the scalar power spectrum amplitude, and $r$ is the tensor-to-scalar ratio.
 
 Graviton Production: Boltzmann or Bogoliubov?
 ---
