@@ -69,6 +69,13 @@ Saving Sterile Neutrino as Dark Matter with Reheating
 
 <img src="/images/Xray.png" alt="Editing a markdown file for a talk" width="600" height="300">
 
+Full-spectrum analysis of gravitational wave production: from inflation to reheating and radiation phasse
+---
+* In [2505.08868](https://arxiv.org/abs/2505.08868), we provided the full spectra of GW produced both during and after inflation
+
+  <img src="/images/GW_Full.png" alt="Editing a markdown file for a talk" width="600" height="300">
+
+
 Probing Gravitational Dark Matter with Gravitational Waves
 ---
 * Pure Gravitational Dark Matter (PGDM) is the most minimal DM scenario, but would be very  challenging for detection.
@@ -80,10 +87,6 @@ Probing Gravitational Dark Matter with Gravitational Waves
 * For more information, see [2412.21137](https://arxiv.org/abs/2412.21137) and [Phys.Lett.B 865 (2025) 139483](https://doi.org/10.1016/j.physletb.2025.139483)
   
 <img src="/images/GWDM_Probe.png" alt="Editing a markdown file for a talk" width="800" height="400">
-
-Full-spectrum analysis of gravitational wave production: from inflation to reheating and radiation phasse
----
-* In [2505.08868](https://arxiv.org/abs/2505.08868), we provided the full spectra of GW produced both during and after inflation
 
 
   
