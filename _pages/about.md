@@ -69,7 +69,7 @@ Saving Sterile Neutrino as Dark Matter with Reheating
 
 <img src="/images/Xray.png" alt="Editing a markdown file for a talk" width="600" height="300">
 
-Full-spectrum analysis of gravitational wave production: from inflation to reheating and radiation phasse
+Full-spectrum analysis of gravitational wave production: from inflation to reheating and radiation phase
 ---
 * In [2505.08868](https://arxiv.org/abs/2505.08868), we provided the full spectra of GW produced both during and after inflation
 
