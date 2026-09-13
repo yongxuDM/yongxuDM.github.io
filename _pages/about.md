@@ -42,7 +42,7 @@ Recent Research Interests
 
 Soft Graviton Theorem: from Amplitudes to Gravitational Waves
 ---
-
+* We promoted the  soft graviton theorem by Weinberg to a cosmological prediction, and predicted the maximum GW amplitude from reheating  [2605.16201](https://arxiv.org/abs/2605.16201)
 
 Graviton Production: Boltzmann or Bogoliubov?
 ---
@@ -50,7 +50,7 @@ Graviton Production: Boltzmann or Bogoliubov?
 Saving Sterile Neutrino as Dark Matter with Reheating
 ---
 * In [2601.03346](https://arxiv.org/abs/2601.03346), we explored how inflaton decay can save sterile neutrino as dark matter.
-* Future X-ray experiment can also be used to probe inflationary reheating
+* Future X-ray experiment can also be used to probe inflationary reheating.
 
 <img src="/images/Xray.png" alt="Editing a markdown file for a talk" width="600" height="300">
 
