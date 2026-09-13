@@ -77,6 +77,18 @@ Full-spectrum analysis of gravitational wave production: from inflation to rehea
   <img src="/images/GW_Full.png" alt="Editing a markdown file for a talk" width="700" height="400">
 
 
+Refined Predictions for Starobinsky Inflation
+---
+* The Starobinsky model, proposed in 1980, is a remarkably simple and predictive inflationary scenario.
+
+* We recently derived simple yet more accurate analytical approximations for the inflationary predictions, particularly for the spectral index $$ n_s $$, given by [2504.20757](https://arxiv.org/abs/2504.20757) $$ n_s \simeq 1 - \frac{2}{N_\star - \frac{3}{4} \ln (2/N_\star)}$$, $$ r \simeq \frac{12}{\left[N_\star - \frac{3}{4} \ln (2/N_\star)\right]^2} $$.
+
+* These refined approximations can reproduce the commonly used leading order expression in the literature, $$ n_s \simeq 1 - \frac{2}{N_\star} $$, $$ r \simeq \frac{12}{N_\star^2} $$, in the lagre $$ N_\star $$ limit. However, the commonly used approximations tend to underestimate the prediction for $$ n_s $$, potentially leading to misleading conclusions when comparing with precision observational data.
+
+<!-- <img src="/images/refined_Starobinsky.PNG" alt="Editing a markdown file for a talk" width="800" height="400"> -->
+
+<img src="/images/approximation.PNG" alt="Editing a markdown file for a talk" width="800" height="400"> 
+
 Probing Gravitational Dark Matter with Gravitational Waves
 ---
 * Pure Gravitational Dark Matter (PGDM) is the most minimal DM scenario, but would be very  challenging for detection.
@@ -208,23 +220,12 @@ Dark Matter Production in the Early Universe
 * Considering all possible production channels can reveal interesting interplay between them, potentially altering the parameter space [2406.19447](https://arxiv.org/abs/2406.19447) 
 
 
-Cosmic Inflation 
+A simple way to realize cosmic inflation 
 --
 * Most simple chaotic inflation model $$V(\phi) \sim \phi^p $$ with $$ p>1/2$$ has been ruled out by recent CMB experiments.
 * A simple and straightforward extension is a polynomial inflation model with a potential $$V(\phi) = a \phi^2 + b \phi^3 +d  \phi^4  $$, which provides a good fit to the CMB data. It also predicts testable running of specal index and tensor-to-scalar ratio. See [2209.07545](https://arxiv.org/abs/2209.07545) for analysis in large field regime and  [2104.03977](https://arxiv.org/abs/2104.03977) for analysis in small field scenario.
 <img src="/images/Polynomial_Inflation_BK18.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
-Refined Predictions for Starobinsky Inflation
----
-* The Starobinsky model, proposed in 1980, is a remarkably simple and predictive inflationary scenario.
-
-* We recently derived simple yet more accurate analytical approximations for the inflationary predictions, particularly for the spectral index $$ n_s $$, given by [2504.20757](https://arxiv.org/abs/2504.20757) $$ n_s \simeq 1 - \frac{2}{N_\star - \frac{3}{4} \ln (2/N_\star)}$$, $$ r \simeq \frac{12}{\left[N_\star - \frac{3}{4} \ln (2/N_\star)\right]^2} $$.
-
-* These refined approximations can reproduce the commonly used leading order expression in the literature, $$ n_s \simeq 1 - \frac{2}{N_\star} $$, $$ r \simeq \frac{12}{N_\star^2} $$, in the lagre $$ N_\star $$ limit. However, the commonly used approximations tend to underestimate the prediction for $$ n_s $$, potentially leading to misleading conclusions when comparing with precision observational data.
-
-<!-- <img src="/images/refined_Starobinsky.PNG" alt="Editing a markdown file for a talk" width="800" height="400"> -->
-
-<img src="/images/approximation.PNG" alt="Editing a markdown file for a talk" width="800" height="400"> 
 
 Black Hole Superradiance, Dark Sector and GWs
 --
