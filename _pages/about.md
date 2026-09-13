@@ -72,7 +72,7 @@ Saving Sterile Neutrino as Dark Matter with Reheating
 
 Full-spectrum analysis of gravitational wave production: from inflation to reheating and radiation phase
 ---
-* In [2505.08868](https://arxiv.org/abs/2505.08868), we provided the full spectra of GW produced both during and after inflation
+* In [2505.08868](https://arxiv.org/abs/2505.08868), we provided the full spectra of GW produced in an inflationary cosmological framework, talking into account both inflationary contributions and production after inflation.
 
   <img src="/images/GW_Full.png" alt="Editing a markdown file for a talk" width="700" height="400">
 
@@ -187,7 +187,7 @@ Modular Symmetry and Cosmology
   * Baryon asymmetry of the universe (BAU) could be explained from Barygenesis via leptogenesis.
   <img src="/images/BAU_Modular.png" alt="Editing a markdown file for a talk" width="800" height="400">
   
-Resonant Reheating
+<!--  Resonant Reheating
 --
  * Tradiational reheating via inflaton contact interaction such as  $$ \phi h^2 $$,  $$ \phi^2 h^2 $$
  * For non-contact interactions, a massless graviton mediator has been discussed in lieterature
@@ -197,7 +197,7 @@ Resonant Reheating
    * Interesting implications on particle physics pheno and cosmo    
 
 <img src="/images/resonant_reheating.png" alt="Editing a markdown file for a talk" width="730" height="700">
-
+-->
    
 Dark Matter Production in the Early Universe
 --
