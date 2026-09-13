@@ -54,11 +54,12 @@ Soft Graviton Theorem: from Amplitudes to Gravitational Waves
 
 Graviton Production: Boltzmann or Bogoliubov?
 ---
-* In [2604.12687](https://arxiv.org/abs/2604.12687), we systematically compared Boltzmann and Bogoliubov approach for computing graviton production.
+* In [2604.12687](https://arxiv.org/abs/2604.12687), we systematically compared the Boltzmann and Bogoliubov approach for computing graviton production.
+* We found that for inflaton potential steeper than quadratic $$ n=2$$, Boltzmann method fails since particle production is dominated by transition from inflation to reheating rather than oscillation.
 
   <img src="/images/Gravoton_Bogo_Boltz_n=2.png" alt="Editing a markdown file for a talk" width="600" height="300">
   
-  <img src="/images/Gravoton_Bogo_Boltz_n=2.png" alt="Editing a markdown file for a talk" width="600" height="300">
+  <img src="/images/Gravoton_Bogo_Boltz_n=4.png" alt="Editing a markdown file for a talk" width="600" height="300">
 
 
 Saving Sterile Neutrino as Dark Matter with Reheating
