@@ -82,7 +82,7 @@ Probing Gravitational Dark Matter with Gravitational Waves
 <img src="/images/GWDM_Probe.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
 Full-spectrum analysis of gravitational wave production: from inflation to reheating and radiation phasse
---
+---
 * In [2505.08868](https://arxiv.org/abs/2505.08868), we provided the full spectra of GW produced both during and after inflation
 
 
