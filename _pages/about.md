@@ -41,7 +41,7 @@ Recent Research Interests
 🌟 Research Highlight 🌟
 ===========================
 
-Soft Graviton Theorem and Gravitational Waves
+Soft Graviton Theorem: from Amplitude to Gravitational Waves
 ---
 
 Graviton Production: Bogoliubov or Boltzmann?
