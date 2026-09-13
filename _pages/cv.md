@@ -209,7 +209,7 @@ Service and Leadership
   * [Nuclear Physics B (NPB)](https://www.sciencedirect.com/journal/nuclear-physics-b)
   * [The European Physical Journal C (EPJC)](https://link.springer.com/journal/10052)
   * [Physical Review D (PRD)](https://journals.aps.org/prd/)
-* Mainz [Theorie-Palaver](https://www.thep.physik.uni-mainz.de/theorie-palaver/) organizer
+* Mainz Theory Seminar organizer
   * Summer term 2024
   * Winter term 24/25
 
