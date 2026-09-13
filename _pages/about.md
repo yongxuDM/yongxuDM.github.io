@@ -33,7 +33,7 @@ Recent Research Interests
 * Black Hole as Laboratories to New Physics: Hawking Radiation, Superradiance, and Gravitational Atoms
 * Inflation and Its aftermath: Physics of (p)reheating, DM production and Mechanism of Baryogenesis <!-- Modular Symmetry and Its application -->
 * Axion Cosmology
-* Cosmological perturbations, Primordial Black Hole formation and Induced Gravitational Wave Signatures
+* Cosmological Perturbations, Primordial Black Hole formation and Gravitational Wave Signatures
 
   
  
