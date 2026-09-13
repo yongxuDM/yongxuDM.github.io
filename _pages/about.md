@@ -90,13 +90,13 @@ Probing Gravitational Dark Matter with Gravitational Waves
 <img src="/images/GWDM_Probe.png" alt="Editing a markdown file for a talk" width="800" height="400">
 
 
-
+<!-- 
 Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating
 ---
 
 * In [2407.03256](https://arxiv.org/abs/2407.03256), I systematically investigated the  ultra-high frequency GWs from gravitons generated during inflationary reheating. The processes under consideration include: $$(i)$$ $$1 \to 3$$ graviton Bremsstrahlung, $$(ii)$$ $$2 \to 2$$ scattering of the inflaton and its decay products, $$(iii)$$ pure inflaton $$2 \to 2$$ scattering, and $$(iv)$$ one-loop induced inflaton decay.
 * After a comprehensive comparison among the four sources of GWs, I identified the conditions under which dominant sources emerge.
-<!-- 
+* 
 * A meaningful step toward establishing a more precise framework for identifying and analyzing the key sources of high frequency GWs in the early universe.
   
 <img src="/images/UHGW.png" alt="Editing a markdown file for a talk" width="600" height="300">
